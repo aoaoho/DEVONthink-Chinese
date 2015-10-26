@@ -1,0 +1,16 @@
+{
+    "#" = "#";
+    "Alphanumeric" = "字母数字";
+    "Analogy" = "比方";
+    "Characters" = "人物";
+    "Frequency" = "频次";
+    "Groups" = "组";
+    "Length" = "长短";
+    "Length:" = "长短:";
+    "Quality of results" = "结果质量";
+    "Search" = "检索";
+    "Similar" = "差不多";
+    "Update" = "更新";
+    "Weight" = "重量";
+    "Word" = "单词";
+}

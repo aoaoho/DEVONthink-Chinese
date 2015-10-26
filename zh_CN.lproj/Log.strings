@@ -1,0 +1,25 @@
+{
+    "Added" = "添加";
+    "Bookmarked" = "书签";
+    "Classified" = "分类";
+    "Classify Failed" = "未分类";
+    "Conversion Failed" = "不转换";
+    "Converted" = "转换";
+    "Done" = "Done.";
+    "Duplicate" = "重复";
+    "Encrypted" = "加密";
+    "Exporting" = "导出";
+    "Failed" = "故障";
+    "Importing" = "输入";
+    "Missing" = "缺少文件";
+    "Missing Indexed File" = "缺少索引文件";
+    "No text" = "没有文本";
+    "Orphaned" = "孤立文件";
+    "Rebuilding" = "重建数据库...";
+    "Removed" = "删除";
+    "Skipped" = "跳过";
+    "Summarized" = "总结";
+    "Tagged" = "标签";
+    "Unknown" = "未知格式";
+    "Updated" = "更新";
+}
