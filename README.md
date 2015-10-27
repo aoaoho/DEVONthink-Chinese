@@ -1,5 +1,12 @@
-DEVONthink Pro 2.8.7 中文化
+DEVONthink Pro 2.8.7 中文化（汉化）
 
 大部分使用 Google Translate 翻译
 
-下载后，将文件夹 zh_CN.lproj 移动至 /Applications/DEVONthink Pro.app/Contents/Resources
+
+2015-10-27 没有全部汉化完 不过已经可以正常使用了
+
+使用方法
+首先 复制English.lproj文件夹 完后更名为 zh_CN.lproj
+把本站提供的zh_CN.lproj内文件 下载并替换上面 zh_CN.lproj文件夹中的文件 不是覆盖文件夹 是覆盖文件夹中的文件
+
+English.lproj文件夹在 /Applications/DEVONthink Pro.app/Contents/Resources/English.lproj
