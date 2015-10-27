@@ -24,9 +24,9 @@
     "Back" = "返回";
     "Background" = "后台";
     "Backup & Optimize" = "备份和优化";
-    "Baseline" = "底线";
+    "Baseline" = "基线";
     "Best Alternative" = "最佳替代";
-    "Bigger" = "大的";
+    "Bigger" = "变大";
     "Blue" = "蓝色";
     "Bold" = "粗体字";
     "Book Mode" = "图书模式";
@@ -170,10 +170,10 @@
     "Launch Path" = "启动路径";
     "Launch URL" = "启动URL";
     "License..." = "许可证...";
-    "Ligature" = "合体字";
+    "Ligature" = "合字、合体字、连体字";
     "Link" = "链接";
-    "Link\U2026" = "添加链接...";
-    "List\U2026" = "清单列表\U2026";
+    "Link..." = "添加链接...";
+    "List..." = "清单列表...";
     "Location" = "位置";
     "Lock" = "锁定";
     "Log" = "Log日志";
@@ -295,7 +295,7 @@
     "Single Pages" = "单页";
     "Size" = "尺寸";
     "Slideshow" = "幻灯片";
-    "Smaller" = "较小的";
+    "Smaller" = "变小";
     "Smart Copy/Paste" = "智能复制/粘贴";
     "Smart Dashes" = "智能破折号";
     "Smart Group" = "智能组别...";
@@ -341,7 +341,7 @@
     "Tutorials" = "教程";
     "URL" = "URL";
     "Uncheck" = "标为没有旗标";
-    "Underline" = "强调";
+    "Underline" = "下划线";
     "Undo" = "撤销";
     "Ungroup" = "取消组合项目";
     "Unlock" = "标为解锁";
