@@ -36,7 +36,7 @@
     "Capitalize" = "大写";
     "Capture" = "截取";
     "Capture Bookmark" = "书签";
-    "Capture Formatted Note" = "有格式的说明 HTML";
+    "Capture Formatted Note" = "有格式的笔记 HTML";
     "Capture HTML" = "HTML";
     "Capture Note" = "Rich Text";
     "Capture PDF" = "PDF (单页)";
@@ -70,7 +70,7 @@
     "Copy Item Link" = "复制项目链接";
     "Copy Page Link" = "复制页面链接";
     "Copy Ruler" = "复制标尺";
-    "Copy URL" = "复制 URL";
+    "Copy URL" = "复制 URL网址";
     "Correct Spelling Automatically" = "自动校正拼写错误";
     "Cover Flow" = "Cover Flow";
     "Create" = "创建";
@@ -169,7 +169,7 @@
     "Last Document" = "末尾文档";
     "Launch Path" = "启动路径";
     "Launch URL" = "启动URL";
-    "License..." = "注册码...";
+    "License..." = "许可证...";
     "Ligature" = "合体字";
     "Link" = "链接";
     "Link\U2026" = "添加链接...";
