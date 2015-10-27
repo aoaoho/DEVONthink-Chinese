@@ -149,12 +149,12 @@
     "Hide Tags" = "隐藏标签";
     "Hide Toolbar" = "隐藏工具栏";
     "Highlight" = "高亮显示";
-    "Highlight Color" = "高亮颜色";
+    "Highlight Color" = "高亮显示颜色";
     "History" = "历史记录";
     "Ignore Umlauts" = "忽略音调符号";
     "Ignore rich text commands" = "忽略富文本命令";
     "Import Site..." = "网站...";
-    "Import..." = "输入...";
+    "Import..." = "导入...";
     "In Database..." = "進入数据库...";
     "Index..." = "索引...";
     "Information" = "获取信息";
@@ -224,7 +224,7 @@
     "Paste With Current Style" = "粘贴并匹配样式";
     "Path" = "路径";
     "Picture..." = "图形";
-    "Plain" = "Plain";
+    "Plain" = "常规体";
     "Plain Text..." = "纯文本 TXT";
     "Play" = "播放";
     "Preferences..." = "偏好设定...";
@@ -370,7 +370,7 @@
     "Zoom To Fit" = "整屏显示";
     "Zoom To Width" = "缩放到宽度";
     "Zoom Window" = "放大";
-    "as Columns" = "以为列显示";
+    "as Columns" = "以列显示";
     "as Icons" = "以图标显示";
     "as List" = "以列表显示";
     "as Split" = "以分割显示";
