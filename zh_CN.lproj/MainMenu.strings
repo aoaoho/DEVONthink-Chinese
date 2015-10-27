@@ -4,7 +4,7 @@
 "About DEVONthink" = "关于 DEVONthink";
 "Actions" = "动作";
 "Activity" = "活动状态";
-"Actual Size" = "实际尺寸";
+"Actual Size" = "实际大小";
 "Add To Favorites" = "添加到收藏夹";
 "Aliases" = "别名";
 "Align Left" = "左对齐";
@@ -292,7 +292,7 @@
 "Show Tags" = "显示标签";
 "Sidebar" = "侧边栏";
 "Single Pages" = "单页";
-"Size" = "尺寸";
+"Size" = "大小";
 "Slideshow" = "幻灯片";
 "Smaller" = "变小";
 "Smart Copy/Paste" = "智能复制/粘贴";
