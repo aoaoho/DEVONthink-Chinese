@@ -1,5 +1,5 @@
 {
-    "A Group" = "组";
+    "A Group" = "分组";
     "Ascending" = "升序";
     "Auto Classify" = "自动分类";
     "Auto Group" = "自动分组项目";
@@ -53,11 +53,11 @@
     "Sheet..." = "表格";
     "Show In Finder" = "在Finder中显示";
     "Size" = "尺寸";
-    "Smart Group" = "智能组别...";
+    "Smart Group" = "智能分组...";
     "Sort" = "排序";
     "Thumbnails" = "缩略图";
-    "To Group" = "组项目";
-    "Ungroup" = "取消组合项目";
+    "To Group" = "分组项目";
+    "Ungroup" = "取消组合分组";
     "Unsorted" = "未分类";
     "Update" = "更新";
     "View" = "查看";

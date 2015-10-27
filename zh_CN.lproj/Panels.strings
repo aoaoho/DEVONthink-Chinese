@@ -24,7 +24,7 @@
     "Feeds:" = "RSS 摘要:";
     "File/Action" = "File/Action";
     "File:" = "文件:";
-    "Groups:" = "群组:";
+    "Groups:" = "分组:";
     "HTML Pages:" = "HTML Pages:";
     "Images:" = "图形:";
     "Info" = "Info";
@@ -67,7 +67,7 @@
     "Show log automatically" = "自动显示日志";
     "Size" = "Size";
     "Size:" = "Size:";
-    "Smart Groups:" = "智能群组:";
+    "Smart Groups:" = "智能分组:";
     "Spotlight Comments" = "Spotlight 建议";
     "Statistics" = "统计";
     "Subject:" = "主题:";
