@@ -44,7 +44,7 @@
     "Capture Web Archive" = "Web Archive";
     "Center" = "居中";
     "Character Shape" = "字符形状";
-    "Check" = "标为旗帜";
+    "Check" = "标示";
     "Check Document Now" = "立即检查文稿";
     "Check Grammar With Spelling" = "检查拼写和语法";
     "Check Spelling" = "检查拼写";
@@ -389,7 +389,7 @@
     "by Path" = "按路径";
     "by Size" = "按大小";
     "by Spotlight Comment" = "按Spotlight注解";
-    "by State" = "按旗帜";
+    "by State" = "按标示";
     "by Tags" = "按标签";
     "by URL" = "按URL";
     "by Width x Height" = "按宽x高";
