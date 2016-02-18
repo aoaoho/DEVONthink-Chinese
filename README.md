@@ -1,10 +1,10 @@
 ![](http://www.devontechnologies.com/typo3temp/pics/0576cc2cfa.png)
 
-\# DEVONthink Pro 2.8.7 中文化（汉化）
+# DEVONthink Pro 2.8.7 中文化（汉化）
 
 大部分使用 Google Translate 翻译
 
-\#\# 自述
+## 自述
 
 2015-10-27 
 
@@ -19,6 +19,6 @@
 2016-02-18
 同样适用于 2.8.9
 
-\#\# 使用方法
+## 使用方法
 
 下载`zh_CN.lproj.7z`解压缩到 `/Applications/DEVONthink Pro.app/Contents/Resources/`
