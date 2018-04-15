@@ -1,24 +1,18 @@
-![](http://www.devontechnologies.com/typo3temp/pics/0576cc2cfa.png)
 
-# DEVONthink Pro 2.8.7 中文化（汉化）
+# DEVONthink Pro Office 简体中文语言包（中文化/汉化）
 
-大部分使用 Google Translate 翻译
+## 版本信息
 
-## 自述
-
-2015-10-27 
-
-这是本人第一次作中文化，也是第一次大范围的编辑程序中的文档。成串的单词、单句，copy完到Google翻译，再贴回来，完后分析语意，修改，再打开程序看看对不对，再返工，再修修改改。以前只是用别人写好的，现在知道了良心的程序员很辛苦。原本只是为了方便自用，现在拿出来分享。如果有不周到的地方，请见谅。如果您使用的开心，我也高兴。
-
-`English.lproj`中的独立文件很多，用了2天时间，主要使用的已经汉化了，已经可以正常使用了。
-
-本中文化，是部分主要语言文件汉化，不是全部。以后不知道，有没有时间持续更新。谢谢
-
-2016-01-09
-同样适用于 2.8.8
-2016-02-18
-同样适用于 2.8.9
+**2018-04-15 更新，应用版本`v2.9.17`**
+ - 此语言包完全基于官方英文版（`English.lproj`）进行制作；
+ - 此语言包内全部资源文件中文化较为彻底，但包括偏好设置在内的部分界面仍然存在英文，可能是这部分内容未放到资源文件内，但基本达到无障碍使用了；
+ - 此语言包仅在 v2.9.17 版本下进行测试（理论上可用于大部分临近版本），可正常使用，若发现问题欢迎指正；
+ - 起初尝试使用 @Leeatmy 的 [DEVONthink Pro v2.8.7 中文化](https://github.com/Leeatmy/DEVONthink-Pro-Chinese "Leeatmy/DEVONthink Pro 2.8.7 中文化（汉化）")，但比较后发现和当前版本差异较大，遂仅作参考。请根据需要获取相应版本。
 
 ## 使用方法
+下载语言包文件，解压后将 `zh_CN.lproj` 目录拷贝或移动到  `/Applications/DEVONthink Pro Office.app/Contents/Resources/` （在应用图标上点右键 --> 显示包内容）目录下，重新启动应用即可。
 
-下载`zh_CN.lproj.7z`解压缩到 `/Applications/DEVONthink Pro.app/Contents/Resources/`
+## 版权说明
+ - 本资源仅作学习和交流之用，请勿用于任何商业用途；
+ - 原程序版权归其[开发商](https://www.devontechnologies.com/ "DEVONtechnologies")所有，请在遵守其相关条款前提下使用本资源；
+ - 本人不承担您因使用本资源而产生的所有可能的后果与责任。
