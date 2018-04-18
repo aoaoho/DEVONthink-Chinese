@@ -1,0 +1,251 @@
+
+/* na */
+"Comments" = "注释";
+
+/* na */
+"Speak Comments" = "讲注释";
+
+/* na */
+"Assemble Comments" = "集合注释";
+
+/* na */
+"Convert Comments to Tags" = "转换注释为标签";
+
+/* na */
+"Export" = "导出";
+
+/* na */
+"Import" = "导入";
+
+/* na */
+"Translate" = "翻译";
+
+/* na */
+"Edit" = "编辑";
+
+/* na */
+"Merge" = "合并";
+
+/* na */
+"Feeds" = "Feeds";
+
+/* na */
+"Images" = "图像";
+
+/* na */
+"EverNote..." = "Evernote...";
+
+/* na */
+"Rotate 1 Left" = "向左旋转";
+
+/* na */
+"Rotate 2 Right" = "向右旋转";
+
+/* na */
+"Rotate 3 Landscape2Portrait" = "横向到纵向";
+
+/* na */
+"Rotate 4 Portrait2Landscape" = "纵向到横向";
+
+/* na */
+"Scale to 50%" = "缩放至50%";
+
+/* na */
+"Scale to 200%" = "缩放至200%";
+
+/* na */
+"Scale to 1024 pixels" = "缩放至1024像素";
+
+/* na */
+"Flip Horizontal" = "水平翻转";
+
+/* na */
+"Flip Vertical" = "垂直翻转";
+
+/* na */
+"Copy Info to Comment" = "将信息拷贝到注释";
+
+/* na */
+"Show recommended groups" = "显示建议的分组";
+
+/* na */
+"Astronomy Picture of the day" = "每日一天文图";
+
+/* na */
+"Mars Explorer Rover Mission Images" = "火星探测车任务图像";
+
+/* na */
+"Hubble News" = "自然 - 哈勃新闻";
+
+/* na */
+"Rename" = "重命名";
+
+/* na */
+"Set Name To Title Of Web Page" = "至到网页标题";
+
+/* na */
+"Set Name To X Subject" = "至主题";
+
+/* na */
+"Add Prefix to Names" = "添加前缀...";
+
+/* na */
+"Add Suffix to Names" = "添加后缀...";
+
+/* na */
+"Replace Text in Names" = "替换文本...";
+
+/* na */
+"Execute" = "执行";
+
+/* na */
+"Execute AppleScript" = "AppleScript";
+
+/* na */
+"Execute Shell Script" = "Shell脚本";
+
+/* na */
+"Execute Perl Script" = "Perl脚本";
+
+/* na */
+"Format" = "格式";
+
+/* na */
+"Body Normal" = "正常字号/Body Normal";
+
+/* na */
+"Body Small" = "小字号/Body Small";
+
+/* na */
+"Header Main" = "主标题/Header Main";
+
+/* na */
+"Header Secondary" = "次要标题/Header Secondary";
+
+/* na */
+"Source" = "来源";
+
+/* na */
+"Count Words" = "词汇统计";
+
+/* na */
+"Count Characters" = "字符统计";
+
+/* na */
+"Download" = "下载";
+
+/* na */
+"Add Images" = "页面图片";
+
+/* na */
+"Add Linked Images" = "页面的已链接图像";
+
+/* na */
+"Add Links" = "页面的链接";
+
+/* na */
+"Create Offline Archive" = "创建离线存档";
+
+/* na */
+"Create Phone List" = "电话列表";
+
+/* na */
+"iTMS - Added Albums" = "iTMS - 已添加相册";
+
+/* na */
+"Sheets" = "工作簿";
+
+/* na */
+"Calc Row" = "行求和 & 平均值";
+
+/* na */
+"Calc Column" = "列求和 & 平均值";
+
+/* na */
+"Apple Hotnews" = "苹果 - 热门新闻";
+
+/* na */
+"This menu" = "关于此菜单";
+
+/* na */
+"Validate Sums" = "检查最后一列的总和";
+
+/* na */
+"Data" = "数据";
+
+/* na */
+"Find similar contents" = "查找并移除相似内容...";
+
+/* na */
+"Duplicates to trash" = "将独立副本（Duplicates）移至废纸篓";
+
+/* na */
+"Thumbnails" = "缩略图";
+
+/* na */
+"Header Capitalized" = "标题大写";
+
+/* na */
+"Group With Duplicates" = "将独立副本（Duplicates）分组";
+
+/* na */
+"Group With Replicants" = "将镜像副本（Replicants）分组";
+
+/* na */
+"Man Page" = "操作手册...";
+
+/* na */
+"Dates" = "日期";
+
+/* na */
+"Touch Creation Date" = "Touch创建日期";
+
+/* na */
+"Touch Modification Date" = "Touch修改日期";
+
+/* na */
+"Creation > Modification Date" = "拷贝创建到修改日期";
+
+/* na */
+"Modification > Creation Date" = "拷贝修改到创建日期";
+
+/* na */
+"Daily backup archive" = "每日备份存档";
+
+/* na */
+"Create Listing" = "清单...";
+
+/* na */
+"Spacing" = "重置间距";
+
+/* na */
+"Perldoc" = "Perldoc...";
+
+/* na */
+"Add n records to sheet" = "添加多个记录...";
+
+/* na */
+"x Adium Chatlogs" = "Adium聊天记录";
+
+/* na */
+"x iChat Chatlogs" = "iChat聊天记录";
+
+/* na */
+"x Second Life Chatlogs" = "Second Life聊天记录";
+
+/* na */
+"Set Title As" = "选定的文本";
+
+/* na */
+"Title Append" = "附加选定的文本";
+
+"Reminders" = "Reminders提醒";
+"Add as To Do to OmniFocus" = "作为待办事项添加到OmniFocus";
+"Add as To Do to The Hit List" = "作为待办事项添加到The Hit List";
+"Add as To Do to Things" = "作为待办事项添加到Things";
+"Add as To Do to TaskPaper" = "作为待办事项添加到TaskPaper";
+"Toolbar" = "工具栏";
+"References from Bookends" = "来自Bookends的参考文献...";
+
+"Add as Event to Calendar" ="作为事件添加到日历";
+"Add as To Do to Reminders" = "作为待办事项添加到Reminders提醒";

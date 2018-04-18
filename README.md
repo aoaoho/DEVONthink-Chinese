@@ -1,7 +1,13 @@
 
-# DEVONthink Pro Office 简体中文语言包（中文化/汉化）
+# DEVONthink 简体中文语言包（最新支持版本`v2.9.17`）
+三个授权版本有轻微差异，请按需使用。
+> DEVONthink Personal  
+DEVONthink Pro  
+DEVONthink Pro Office
 
 ## 版本信息
+**2018-04-18 更新，应用版本`v2.9.17`**
+ - 增加了 Personal 和 Pro 版本的支持。
 
 **2018-04-15 更新，应用版本`v2.9.17`**
  - 此语言包完全基于官方英文版（`English.lproj`）进行制作；
@@ -10,7 +16,7 @@
  - 起初尝试使用 @Leeatmy 的 [DEVONthink Pro v2.8.7 中文化](https://github.com/Leeatmy/DEVONthink-Pro-Chinese "Leeatmy/DEVONthink Pro 2.8.7 中文化（汉化）")，但比较后发现和当前版本差异较大，遂仅作参考。请根据需要获取相应版本。
 
 ## 使用方法
-下载语言包文件，解压后将 `zh_CN.lproj` 目录拷贝或移动到  `/Applications/DEVONthink Pro Office.app/Contents/Resources/` （在应用图标上点右键 --> 显示包内容）目录下，重新启动应用即可。
+下载语言包文件，解压后将 `zh_CN.lproj` 目录拷贝或移动到  `/Applications/DEVONthink*.app/Contents/Resources/` （在应用图标上点右键 --> 显示包内容）目录下，重新启动应用即可。
 
 ## 版权说明
  - 本资源仅作学习和交流之用，请勿用于任何商业用途；

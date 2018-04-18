@@ -1,0 +1,116 @@
+
+"Everything" = "全部";
+"Content" = "内容";
+"Name" = "名称";
+"Comment" = "注释";
+"URL" = "URL";
+"Tag" = "标签";
+"Data" = "数据";
+"Meta Data" = "Meta Data";
+"Metadata" = "Metadata";
+
+"Kind" = "种类";
+"Instance" = "实例";
+"Record" = "条目";
+
+"Label" = "标注";
+"Locking" = "锁定";
+"Unread" = "未读";
+"State" = "旗标";
+"Label" = "标注";
+
+"Width" = "宽";
+"Height" = "高";
+"Duration" = "持续时间";
+"Size" = "尺寸";
+"Word Count" = "字数";
+
+"Date Added" = "添加日期";
+"Date Created" = "创建日期";
+"Date Modified" = "修改日期";
+"Date Opened" = "打开日期";
+
+"Off" = "关闭";
+"On" = "开启";
+"is" = "是";
+"is not" = "不是";
+"contains" = "包含";
+"matches" = "匹配";
+"is less than" = "小于";
+"is less than or equal to" = "小于或等于";
+"is greater than" = "大于";
+"is greater than or equal to" = "大于或等于";
+
+"Aliases" = "别名";
+"Script" = "脚本";
+
+"Replicant" = "镜像副本（Replicant）";
+"Duplicate" = "独立副本（Duplicate）";
+"Indexed" = "已索引";
+"Tagged" = "已加标签";
+
+"Author" = "作者";
+"From" = "From";
+"Recipient" = "收件人";
+"To" = "To";
+
+"Title" = "标题";
+"Headline" = "段落标题";
+"Subject" = "主题";
+
+"Description" = "描述";
+"Keywords" = "关键字";
+"Organization" = "组织";
+"Copyright" = "版权";
+
+"Album" = "专辑/Album";
+"Composer" = "著作者/Composer";
+
+"Today" = "今天";
+"Yesterday" = "昨天";
+"This Week" = "本周";
+"Last Week" = "上周";
+"This Month" = "本月";
+"Last Month" = "上月";
+"This Quarter" = "本季度";
+"Last Quarter" = "上季度";
+"This Year" = "今年";
+"Last Year" = "去年";
+
+"Any" = "任意";
+"All" = "全部";
+"of the following are true" = "以下是真实的";
+
+"Any Content" = "任意文档";
+"Group" = "分组";
+"Smart Group" = "智能分组";
+"Plain Text" = "纯文本";
+"Rich Text" = "富文本";
+"HTML Page" = "HTML页面";
+"Web Archive" = "Web存档";
+"XML File" = "XML文件";
+"Property List" = "属性列表";
+"Image" = "图像";
+"PDF/PS" = "PDF/PS";
+"QuickTime" = "QuickTime";
+"Video" = "视频";
+"Audio" = "音频";
+"Bookmark" = "书签";
+"Feed" = "Feed";
+"Sheet" = "工作簿";
+"Other" = "其他";
+"Email" = "Email";
+"News" = "新闻";
+
+"does not contain" = "不包含";
+"Filename" = "文件名";
+"begins with"  = "开始于";
+"ends with" = "结束于";
+
+"Operators/Wildcards" = "运算符&通配符";
+"Wildcards" = "通配符";
+"Formatted Note" = "格式化的笔记";
+"within last" = "在最后";
+"not within last" = "不在最后";
+"days" = "天";
+"Pending" = "待定";

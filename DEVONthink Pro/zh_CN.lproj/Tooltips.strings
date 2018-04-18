@@ -1,0 +1,53 @@
+/* na */
+"back" = "后退";
+
+/* na */
+"forward" = "前进";
+
+/* na */
+"reload" = "重新加载/停止加载";
+
+/* na */
+"url"= "URL";
+
+/* na */
+"lock" = "锁定/解锁";
+
+/* na */
+"topics" = "关键词";
+
+/* na */
+"pagedown" = "转至上一页";
+
+/* na */
+"pageup" = "转至下一页";
+
+/* na */
+"words" = "词汇";
+
+/* na */
+"see" = "参阅 & 归类";
+
+/* na */
+"sidebar" = "显示/隐藏侧边栏";
+
+/* na */
+"tags" = "显示/隐藏标签";
+
+/* na */
+"Text Alternative" = "替代文本";
+
+/* na */
+"Best Alternative" = "最佳选择";
+
+/* na */
+"previous" = "上一个高亮标记";
+
+/* na */
+"next" = "下一个高亮标记";
+
+/* na */
+"share" = "分享";
+
+/* na */
+"actions" = "动作";

@@ -1,0 +1,1447 @@
+/* na */
+"Group" = "分组";
+
+/* na */
+"Groups" = "分组";
+
+/* na */
+"Groups & Tags" = "分组 & 标签";
+
+/* na */
+"Topics" = "主题";
+
+/* na */
+"See Also" = "参阅";
+
+/* na */
+"More" = "更多";
+
+/* na */
+"Move To" = "移动到";
+
+/* na */
+"Replicate To" = "镜像副本（Replicants）到";
+
+/* na */
+"Duplicate To" = "独立副本（Duplicate）到";
+
+/* na */
+"PDF+Text" = "PDF+文本";
+
+/* na */
+"Image" = "图形";
+
+/* na */
+"Markup" = "标记";
+
+/* na */
+"RTF" = "RTF";
+
+/* na */
+"RTFD" = "RTFD";
+
+/* na */
+"HTML" = "HTML";
+
+/* na */
+"Plain" = "Text";
+
+/* na */
+"%@ TB" = "%@ TB";
+
+/* na */
+"%@ GB" = "%@ GB";
+
+/* na */
+"%@ MB" = "%@ MB";
+
+/* na */
+"%@ KB" = "%@ KB";
+
+/* na */
+"%d bytes" = "%d bytes";
+
+/* na */
+"Size:" = "大小：";
+
+/* na */
+"Items:" = "条目：";
+
+/* na */
+"-" = "-";
+
+/* na */
+"Counting Words" = "统计词汇";
+
+/* na */
+"Sorting" = "排序";
+
+/* na */
+"Search" = "搜索";
+
+/* na */
+"OK" = "好的";
+
+/* na */
+"Cancel" = "取消";
+
+/* na */
+"Don\'t save" = "不保存";
+
+/* na */
+"Save" = "保存";
+
+/* na */
+"Export" = "导出";
+
+/* na */
+"Exporting" = "正在导出";
+
+/* na */
+"No items found" = "未找到条目";
+
+/* na */
+"%d items found (%.3f seconds)" = "发现%d个条目（%.3f秒）";
+
+/* na */
+"1 item found (%.3f seconds)" = "发现1个条目（%.3f秒）";
+
+/* na */
+"%d documents" = "%d 合并后的文件";
+
+/* na */
+"Convert document to plain text?" = "将文档转换为纯文本？";
+
+/* na */
+"Converting will lose fonts, colors, and other text styles in the document." = "转换将失去字体、颜色以及文档中的其它文本样式。";
+
+/* na */
+"Converting" = "转换中";
+
+/* na */
+"Do you want to save changes to this document\nbefore closing?" = "你想为这个文档保存更改吗\n在关闭前?";
+
+/* na */
+"If you don\'t save, changes will be lost." = "如果你不保存，更改将丢失。";
+
+/* na */
+"Revert to saved version of %@?" = "恢复到保存的版本 %@?";
+
+/* na */
+"Reverting will lose your current changes." = "还原将失去目前的更改。";
+
+/* na */
+"Make Plain Text" = "制作纯文本";
+
+/* na */
+"Make Rich Text" = "制作富文本";
+
+/* na */
+"Loading %@..." = "读取中 %@...";
+
+/* na */
+"Multiple Selection" = "多选";
+
+/* na */
+"No Selection" = "没有选择";
+
+/* na */
+"%d items" = "%d 条目";
+
+/* na */
+" (%d items)" = " (%d 条目)";
+
+/* na */
+"%d items, %d selected" = "%d 条目, %d 选择";
+
+/* na */
+"%d items selected" = "%d 所选条目";
+
+/* na */
+"%d lines, %d words, %d characters" = "%d行，%d词汇，%d字符";
+
+/* na */
+"%d words" = "%d词汇";
+
+/* na */
+"%d x %d, %d/%d dpi" = "%d x %d 像素, %d/%d dpi";
+
+/* na */
+"%d x %d, %d dpi" = "%d x %d 像素, %d dpi";
+
+/* na */
+"%d x %d pixels" = "%d x %d 像素";
+
+/* na */
+"%d x %d points" = "%d x %d 点";
+
+/* na */
+"%.1f x %.1f cm" = "%.1f x %.1f 厘米";
+
+/* na */
+"%.1f x %.1f inches" = "%.1f x %.1f 英寸";
+
+/* na */
+"%d pixels" = "%d 像素";
+
+/* na */
+"History" = "历史记录";
+
+/* na */
+"Removing Thumbnails" = "删除缩略图";
+
+/* na */
+"Updating Thumbnails" = "更新缩略图";
+
+/* na */
+"Creating Thumbnails" = "创建缩略图";
+
+/* na */
+"Converting Documents" = "转换文档";
+
+/* na */
+"Classifying" = "归类";
+
+/* na */
+"Grouping" = "分组";
+
+/* na */
+"Comparing Text" = "比较文本";
+
+/* na */
+"Grouping Text" = "分组文本";
+
+/* na */
+"Comparing Images" = "比较图形";
+
+/* na */
+"Grouping Images" = "分组图形";
+
+/* na */
+"Protocol" = "协议";
+
+/* More errors */
+"..." = "...";
+
+/* na */
+"Grouped %d" = "分组 %d";
+
+/* na */
+"Initializing & Verifying..." = "初始化和验证...";
+
+/* na */
+"Initializing..." = "初始化...";
+
+/* na */
+"Verification" = "验证";
+
+/* na */
+"Verification: %@" = "验证: %@";
+
+/* na */
+"Zipping" = "创建Zip文件";
+
+/* na */
+"Database Backup..." = "数据库存档...";
+
+/* na */
+"Initial Verification" = "初步验证";
+
+/* na */
+"Initial Verification: %@" = "初步验证：%@";
+
+/* na */
+"Found %d inconsistencies in memory, update of database files disabled.\n Try \"Verify & Repair\" or restart the application!" = "发现在内存中的%d不一致，数据库文件的更新被禁用。\n 尝试 \"验证&修复\" 或重新启动应用！";
+
+/* na */
+"Found %d inconsistencies, %d incorrect checksums and %d missing files." = "发现%d不一致，%d不正确的校验和%d丢失的文件。";
+
+/* na */
+"Found %d inconsistencies, %d incorrect checksums, %d missing and %d orphaned files." = "发现%d不一致，%d不正确的校验，%d丢失和%d孤立文件。";
+
+/* na */
+"Orphaned Files" = "孤立的文件";
+
+/* na */
+"Repair" = "修复";
+
+/* na */
+"Ignore" = "忽略";
+
+/* na */
+"Connect" = "连接";
+
+/* na */
+"Continue" = "继续";
+
+/* na */
+"Reparation failed" = "修复失败";
+
+/* na */
+"Reparation successful" = "修复成功";
+
+/* na */
+"No errors found." = "没有发现错误。";
+
+/* na */
+"%d errors left." = "%d 个错误。";
+
+/* na */
+"No more errors found." = "没发现更多的错误。";
+
+/* na */
+"%d files found" = "发现%d文件";
+
+/* na */
+"Preparing" = "正在准备";
+
+/* na */
+"Importing" = "正在导入";
+
+/* na */
+"Indexing" = "正在索引";
+
+/* na */
+"Import Files" = "导入文件";
+
+/* na */
+"Index Files" = "索引文件";
+
+/* na */
+"Are you sure you want to remove the items in the Trash permanently? You cannot undo this action." = "你确定要永久移除废纸篓中的条目吗？此操作无法撤消。";
+
+/* na */
+"Do you really want to remove the selected items? This cannot be undone." = "你确定要移除所选条目吗？此操作无法撤消。";
+
+/* na */
+"Do you really want to remove the selected items?" = "你确定要移除所选条目吗？";
+
+/* na */
+"Some files may be represented on disk.\nAlso remove from disk?" = "一些外部文件和文件夹条目已被索引。也移除这些文件和文件夹吗？此操作无法撤消！";
+
+/* na */
+"Files" = "文件";
+
+/* na */
+"Files & Folders" = "文件 & 文件夹";
+
+/* na */
+"Remove from database" = "从数据库中移除";
+
+/* Duplicates */
+"%@ copy" = "%@ 拷贝";
+
+/* na */
+"Optimizing data..." = "优化数据";
+
+/* na */
+"Checking data..." = "检查数据...";
+
+/* na */
+"Checking checksums..." = "检查校验...";
+
+/* na */
+"Checking files..." = "检查文件...";
+
+/* na */
+"Repairing..." = "正在修复...";
+
+/* na */
+"Checking again..." = "再次检查...";
+
+/* Statistics */
+"%d" = "%d";
+
+/* Statistics */
+"%@ (%@ replicants)" = "%@ (%@ 镜像副本（Replicants）)";
+
+/* na */
+"%@ unique words" = "%@ 独立的词汇";
+
+/* na */
+"%d items, %d idle, %d active, %d done" = "%d 条目，%d 空闲，%d 活跃，%d 完成";
+
+/* na */
+"Stop" = "停止";
+
+/* na */
+"Choose" = "选择";
+
+/* na */
+"Create" = "创建";
+
+/* na */
+"Create Database" = "创建数据库";
+
+/* na */
+"Open Database" = "打开数据库";
+
+/* na */
+"Database:\n %@" = "数据库：\n %@";
+
+/* na */
+"%@ (%@, Size: %@, Date Modified: %@)" = "%@ (%@，大小：%@，修改：%@)";
+
+"Database Upgrade" = "数据库升级";
+
+/* na */
+"Initialization" = "初始化";
+
+/* na */
+"Unknown version of database files!" = "数据库文件版本未知！";
+
+/* na */
+"The database you are trying to open seems to be either in use by another instance of %@ or has not been closed properly the last time it was used. Press 'Continue' to open the database anyway if you are sure it is not in use by another copy of %@." = "您正在尝试打开的数据库似乎正在使用被另一个实例%@使用，或者最后一次使用时没有被正确的关闭。无论怎样，如果你确信它没有正在被另一个副本%@使用，请点“继续”打开数据库"。;
+
+/* na */
+"This database might be in use on another computer. Opening it anyway might result in data loss or data corruption." = "该数据库也许正在另一台计算机上使用，继续打开可能会导致数据丢失或损坏。";
+
+/* na */
+"Database '%@' seems to be already in use!" = "数据库 '%@' 似乎已在使用中！";
+
+/* na */
+"Database seems to be already in use!" = "数据库似乎已在使用中！";
+
+/* na */
+"Database couldn't be created!" = "无法创建数据库！";
+
+/* na */
+"Database Location" = "数据库位置";
+
+/* na */
+"Display" = "显示";
+
+/* na */
+"Convert to Plain Text" = "转换为纯文本";
+
+/* na */
+"Convert to Rich Text" = "转换为富文本";
+
+/* na */
+"%d Pages" = "%d 页面";
+
+/* na */
+"DEVONagent" = "DEVONagent";
+
+/* na */
+"DEVONagent application not found!" = "未找到 DEVONagent 应用！";
+
+/* na */
+"Home" = "顶层分组";
+
+/* na */
+"%@ of %@: %@" = "%@ of %@: %@";
+
+/* na */
+"%@ of %@" = "%@ of %@";
+
+/* na */
+"%@: %@" = "%@: %@";
+
+/* na */
+"%@:" = "%@：";
+
+/* na */
+"[%@] %@" = "%@ — %@";
+
+/* na */
+"Back" = "后退";
+
+/* na */
+"Forward" = "前进";
+
+/* na */
+"Capture Page" = "捕捉页面";
+
+/* na */
+"Capture Web Archive" = "捕捉Web存档";
+
+/* na */
+"Update Captured Page" = "更新已捕捉页面";
+
+/* na */
+"Update Captured Archive" = "更新已捕捉存档";
+
+/* na */
+"Capture Note" = "捕捉富文本";
+
+/* na */
+"Capture PDF" = "捕捉PDF";
+
+/* na */
+"Capture Paginated PDF" = "捕捉分页PDF";
+
+/* na */
+"Open Link" = "打开链接";
+
+/* na */
+"Open Link In Browser" = "在浏览器中打开链接";
+
+/* na */
+"Open Link In DEVONagent" = "在DEVONagent中打开链接";
+
+/* na */
+"Open Image In PhotoStickies" = "在PhotoStickies中打开图像";
+
+/* na */
+"The files of your database are stored in an old format. Do you want to upgrade to the current format?\n\nThe application will export the contents and import them into a new database." = "您的数据库文件以旧格式存储. 你想升级到当前的格式吗?\n\n该应用程序将导出该内容并导入到一个新数据库中。";
+
+/* na */
+"Capture Frame" = "捕捉Frame";
+
+/* na */
+"Capture Link" = "捕捉链接";
+
+/* na */
+"Capture Image" = "捕捉图像";
+
+/* na */
+"Found %d major file errors.\n Please rebuild your database and verify the contents afterwards!" = "发现%d主要文件出错。请恢复最后的备份或重建数据库，并核实之后的内容！";
+
+/* na */
+"Rebuild Database" = "重建数据库";
+
+/* na */
+"The application will export your contents, create a backup of the database and import the contents into a new database." = "该应用将导出您的内容，创建数据库的备份，并将内容导入到一个新的数据库中。";
+
+/* na */
+"Open Page In Browser" = "在浏览器中打开页面";
+
+/* na */
+"Open Page In DEVONagent" = "在DEVONagent中打开页面";
+
+/* na */
+"Open Frame In Browser" = "在浏览器中打开Frame";
+
+/* na */
+"Open Frame In DEVONagent" = "在DEVONagent中打开Frame";
+
+/* na */
+"See \"%@\"" = "See »%@«";
+
+/* na */
+"Add tag \"%@\"" = "添加标签 »%@«";
+
+/* na */
+"See Selected Text" = "参阅所选文本";
+
+/* na */
+"Set Title" = "将名称设定为";
+
+/* na */
+"Interval" = "时间间隔";
+
+/* na */
+"%d Hours" = "%d 小时";
+
+/* na */
+"%d Minutes" = "%d 分钟";
+
+/* na */
+"%d Seconds" = "%d 秒";
+
+/* na */
+"Off" = "Off";
+
+/* na */
+"Write about %@ here!" = "%A %m/%d/%Y %H:%M:%S\n\n\t记录 %@ 这里！";
+
+/* na */
+"Link To" = "链接到";
+
+/* na */
+"Insert Link To" = "插入链接到";
+
+/* na */
+"Show" = "显示";
+
+/* na */
+"Hide" = "隐藏";
+
+/* na */
+"State" = "旗标";
+
+/* na */
+"Locking" = "锁定/Locking";
+
+/* na */
+"Name" = "名称";
+
+/* na */
+"Location" = "位置";
+
+/* na */
+"location" = "位置";
+
+/* na */
+"%.0f minutes" = "%.0f 分钟";
+
+/* na */
+"%.0f hours" = "%.0f 小时";
+
+/* na */
+"%.0f days" = "%.0f 天";
+
+/* na */
+"%.0f months" = "%.0f 月";
+
+/* na */
+"%.0f years" = "%.0f 年";
+
+/* na */
+"Add Frame To Downloads" = "添加Frame到下载";
+
+/* na */
+"Add Page To Downloads" = "添加页面到下载";
+
+/* na */
+"Add Link To Downloads" = "添加链接到下载";
+
+/* na */
+"Files and Folders" = "文件和文件夹...";
+
+/* na */
+"as %@..." = "as %@...";
+
+/* na */
+"Copy Page Address" = "复制页面地址";
+
+/* na */
+"Copy Frame Address" = "复制Frame地址";
+
+/* na */
+"Copy Image Address" = "复制图像地址";
+
+/* na */
+"Restore Backup" = "恢复备份";
+
+/* na */
+"Switch to backup (%@) of database?" = "切换到备份的数据库（%@）？";
+
+/* na */
+"Switching to backup of database failed." = "切换到备份的数据库失败。";
+
+/* na */
+"Stylesheet" = "样式表";
+
+/* na */
+"Destination" = "目标";
+
+/* na */
+"%d x %d (%d%%), %02d:%02d:%02d" = "%d x %d pixel, %d%%, %02d:%02d:%02d";
+
+/* na */
+"%02d:%02d:%02d" = "%02d:%02d:%02d";
+
+/* na */
+"Loading plugins..." = "加载插件...";
+
+/* na */
+"Building scripts menu..." = "构建 Scripts脚本 菜单...";
+
+/* Offline */
+"Downloads" = "下载";
+
+/* na */
+"Download" = "下载";
+
+/* na */
+"Open Link In PhotoStickies" = "在PhotoStickies中打开链接";
+
+/* axis */
+"ln(#)" = "ln(№)";
+
+/* axis */
+"#" = "№";
+
+/* axis */
+"ln(f)" = "ln(Frequency)";
+
+/* axis */
+"f" = "次数";
+
+/* Concordance */
+"List" = "列表清单";
+
+/* Concordance */
+"Graph" = "图表";
+
+/* Drawer */
+"Word" = "词汇";
+
+/* Drawer */
+"Score" = "评分";
+
+/* Drawer */
+"Result" = "结果";
+
+/* Drawer */
+"Analogy" = "类比";
+
+/* na */
+"Table" = "工作表";
+
+/* na */
+"Tables" = "工作表";
+
+/* na */
+"Record" = "记录";
+
+/* na */
+"New Table" = "新建工作表";
+
+/* na */
+"%@ replicates, %@ duplicates" = "%@ 镜像副本（Replicants），%@ 独立副本（Duplicates）";
+
+/* na */
+"Duplicates" = "独立副本（Duplicates）";
+
+/* na */
+"%@ unique, %@ total" = "%@ 独立的，%@ 总计";
+
+/* na */
+"Concordance: %@ unique, %@ total" = "词汇：%@ 独立的，%@ 总计";
+
+/* na */
+"Copy Link" = "拷贝链接";
+
+/* na */
+"Copy Image" = "拷贝图像";
+
+/* na */
+"Movie" = "影片";
+
+/* na */
+"Highlight" = "高亮显示";
+
+"Label1" = "ToDo";
+"Label2" = "Done";
+"Label3" = "重要";
+"Label4" = "不重要";
+"Label5" = "私人";
+"Label6" = "工作";
+"Label7" = "标注";
+"Label" = "标注";
+"No label" = "无标注";
+
+/* na */
+"<None>" = "<无>";
+
+/* na */
+"Go to \"%@\"" = "转至\"%@\"";
+
+/* na */
+"Name:" = "名称：";
+
+/* na */
+"Location:" = "位置：";
+
+/* na */
+"Kind:" = "种类：";
+
+/* na */
+"Label:" = "标注：";
+
+/* na */
+"File:" = "文件：";
+
+/* na */
+"Words:" = "词汇：";
+
+/* na */
+"Added:" = "添加时间：";
+
+/* na */
+"Created:" = "创建时间：";
+
+/* na */
+"Modified:" = "修改时间：";
+
+/* na */
+"%@: \"%@\"" = "%@ — \"%@\"";
+
+/* na */
+"%@ - %@" = "%@ — %@";
+
+/* na */
+"Select..." = "选择...";
+
+/* na */
+"Never" = "从不";
+
+/* na */
+"Open Externally" = "打开外部";
+
+/* na */
+"Open With %@" = "使用%@打开";
+
+/* na */
+"Open With" = "使用...打开";
+
+/* na */
+"Contacts..." = "联系人...";
+
+/* na */
+"to iPod..." = "至iPod...";
+
+/* na */
+"Use Backup" = "使用备份...";
+
+/* na */
+"Rebuild" = "重建...";
+
+/* na */
+"Comment" = "注释";
+
+/* na */
+"addition" = "已添加";
+
+/* na */
+"creation" = "已创建";
+
+/* na */
+"modification" = "已修改";
+
+/* na */
+"kind" = "种类";
+
+/* na */
+"label" = "标注";
+
+/* na */
+"size" = "尺寸";
+
+/* na */
+"wordcount" = "词汇";
+
+/* na */
+"url" = "URL";
+
+/* na */
+"path" = "路径";
+
+/* na */
+"comment" = "Spotlight注释";
+
+/* na */
+"Dimension:" = "纬度：";
+
+/* na */
+"Duration:" = "持续时间：";
+
+/* na */
+"as Website..." = "作为网站...";
+
+/* na */
+"Copying DEVONthink Personal database..." = "拷贝DEVONthink个人数据库...";
+
+/* na */
+"Copying database..." = "拷贝数据库...";
+
+/* na */
+"Bookmarks" = "书签";
+
+/* na */
+"Columns" = "列";
+
+/* na */
+"Column %d" = "列%d";
+
+/* na */
+"Add Column" = "添加列";
+
+/* na */
+"Add Column:" = "添加列：";
+
+/* na */
+"Remove Column" = "移除列";
+
+/* na */
+"Remove" = "移除";
+
+/* na */
+"Show Details" = "显示细节";
+
+/* na */
+"Hide Details" = "隐藏细节";
+
+/* na */
+"Services" = "服务";
+
+/* na */
+"URL:" = "URL：";
+
+/* na */
+"Path:" = "路径：";
+
+/* na */
+"Comment:" = "注释：";
+
+/* na */
+"Special Characters..." = "特殊字符...";
+
+/* na */
+"Web Archive" = "Web存档";
+
+/* na */
+"Reload" = "重新加载";
+
+/* na */
+"StopLoading" = "停止加载";
+
+/* na */
+"Actual Size" = "实际尺寸";
+
+/* na */
+"All Pixels" = "全部像素";
+
+/* na */
+"Zoom In" = "放大";
+
+/* na */
+"Zoom Out" = "缩小";
+
+/* na */
+"Zoom To Fit" = "缩放以适合";
+
+/* na */
+"Zoom To Width" = "缩放至宽度";
+
+/* na */
+"Go To Previous Page" = "上一页";
+
+/* na */
+"Go To Next Page" = "下一页";
+
+/* na */
+"%@\tPage -%d-" = "%@\tPage -%d-";
+
+/* na */
+"Any label" = "任意";
+
+/* na */
+"Cut" = "剪切";
+
+/* na */
+"Copy" = "复制";
+
+/* na */
+"Paste" = "粘贴";
+
+/* na */
+"Delete" = "删除";
+
+/* na */
+"New Record" = "新建记录";
+
+/* na */
+"New Column..." = "新建列...";
+
+/* na */
+"(%d records)" = "（%d记录）";
+
+/* na */
+"(%d columns)" = "（%d列）";
+
+/* na */
+"Delete Columns" = "删除列";
+"Delete Columns..." = "删除列...";
+
+/* na */
+"Delete Records" = "删除记录";
+"Delete Records..." = "删除记录...";
+
+/* na */
+"Edit Columns..." = "编辑列...";
+
+/* na */
+"%d x %d, %02d:%02d:%02d" = "%d x %d, %02d:%02d:%02d";
+
+/* na */
+"Yes" = "是";
+
+/* na */
+"No" = "否";
+
+/* na */
+"Warning" = "警告";
+
+/* na */
+"Are you sure you want to open %d items?" = "你确定要打开 %d 条目?";
+
+/* na */
+"Open..." = "打开";
+
+/* Export */
+"OmniOutliner Document" = "OmniOutliner 文档";
+
+/* Export */
+"Outliner Processor Markup Language" = "OPML";
+
+/* Export */
+"Rich Text (RTF)" = "RTF 文档";
+
+/* Export */
+"Rich Text (RTFD)" = "RTFD 文档";
+
+/* Export */
+"Word Document" = "Word 文档";
+
+/* Export */
+"Text" = "Text";
+
+/* na */
+"(default)" = "（默认）";
+
+/* na */
+"Capture Frame Address" = "捕捉Frame地址";
+
+/* na */
+"Capture Page Address" = "捕捉页面地址";
+
+/* na */
+"Capture Formatted Note" = "捕捉格式化的笔记";
+
+/* na */
+"Last Destinations" = "最近的目标";
+
+/* na */
+"Clear Last Destinations" = "清除最近的目标";
+
+/* na */
+"Never ask me again" = "不要再次询问";
+
+/* na */
+"Spotlight Support" = "Spotlight支持";
+
+/* na */
+"This database is not searchable for Spotlight. Do you want to enable Spotlight support for this database?" = "Spotlight目前不可搜索这个数据库。你想要启用该数据库的Spotlight支持吗？";
+
+/* na */
+"Updating Indexed Items" = "更新索引条目";
+
+/* na */
+"New Group" = "新建分组";
+
+/* na */
+"New Tag" = "新建标签";
+
+/* na */
+"New Smart Group" = "新建智能分组";
+
+/* na */
+"New Plain Text" = "新建纯文本";
+
+/* na */
+"New Rich Text" = "新建富文本";
+
+/* na */
+"New Script" = "新建脚本";
+
+/* na */
+"New HTML Page" = "新建HTML页面";
+
+/* na */
+"New Web Archive" = "新建Web存档";
+
+/* na */
+"New XML File" = "新建XML文件";
+
+/* na */
+"New Property List" = "新建属性列表";
+
+/* na */
+"New Picture" = "新建图像";
+
+/* na */
+"New PDF Document" = "新建PDF文档";
+
+/* na */
+"New QuickTime Movie" = "新建QuickTime影片";
+
+/* na */
+"New Bookmark" = "新建书签";
+
+/* na */
+"New Feed" = "新建Feed";
+
+/* na */
+"New Table" = "新建工作簿";
+
+/* na */
+"New Record" = "新建记录";
+
+/* na */
+"Group %d" = "分组 %d";
+
+/* na */
+"Smart Group" = "智能分组";
+
+/* na */
+"Smart Group %d" = "智能分组%d";
+
+/* na */
+"Plain Text %d" = "纯文本%d";
+
+/* na */
+"Rich Text %d" = "富文本%d";
+
+/* na */
+"Script %d" = "脚本%d";
+
+/* na */
+"HTML Page %d" = "HTML页面%d";
+
+/* na */
+"Web Archive %d" = "Web存档%d";
+
+/* na */
+"XML File %d" = "XML文件%d";
+
+/* na */
+"Property List %d" = "属性列表%d";
+
+/* na */
+"Picture %d" = "图像%d";
+
+/* na */
+"PDF Document %d" = "PDF文档%d";
+
+/* na */
+"QuickTime Movie %d" = "QuickTime影片%d";
+
+/* na */
+"Bookmark %d" = "书签%d";
+
+/* na */
+"Feed %d" = "Feed%d";
+
+/* na */
+"Table %d" = "工作簿%d";
+
+/* na */
+"Record %d" = "记录%d";
+
+/* na */
+"Open Link In Tab" = "在新标签页中打开链接";
+
+/* na */
+"Open Page In Tab" = "在新标签页中打开页面";
+
+/* na */
+"Open Frame In Tab" = "在新标签页中打开Frame";
+
+/* na */
+"Open Image In Tab" = "在新标签页中打开图像";
+
+/* na */
+"_dtName_" = "名称";
+
+/* na */
+"_dtURL_"= "URL";
+
+/* na */
+"_dtComment_" = "注释";
+
+/* na */
+"Bookmark" = "书签";
+
+/* na */
+"Database Properties" = "数据库属性";
+
+/* na */
+"as Template..." = "按模版...";
+
+/* na */
+"Trash" = "废纸篓";
+
+/* na */
+"Inbox" = "收件箱";
+
+/* na */
+"Removing temporary files..." = "移除临时文件...";
+
+/* na */
+"Emptying Trash" = "清空废纸篓";
+
+/* na */
+"Search Phrase" = "搜索所选词组";
+
+/* na */
+"Recently Added" = "最近添加的";
+
+/* na */
+"Today" = "今天";
+
+/* na */
+"Yesterday" = "昨天";
+
+/* na */
+"Unread" = "未读";
+
+/* na */
+"Save Search:" = "保存搜索：";
+
+/* na */
+"All Images" = "所有图像";
+
+/* na */
+"All PDF Documents" = "所有PDF文档";
+
+/* na */
+"File missing:\n%@" = "文件丢失：\n%@";
+
+/* na */
+"File not yet available:\n%@" = "文件不可用：\n%@";
+
+/* na */
+"File not yet available" = "文件不可用";
+
+/* na */
+"Edit Smart Group..." = "编辑...";
+
+/* na */
+"openDatabases" = "打开数据库";
+
+/* na */
+"recentDatabases" = "最近的数据库";
+
+/* na */
+"favorites" = "收藏夹";
+
+/* na */
+"Favorites" = "收藏夹";
+
+/* na */
+"smartGroups" = "智能分组";
+
+/* na */
+"trash" = "废纸篓";
+
+/* na */
+"inbox" = "收件箱";
+
+/* na */
+"globals" = "全局";
+
+/* na */
+"To-Do" = "ToDo";
+
+/* na */
+"Refresh Feeds" = "刷新Feeds";
+
+/* na */
+"Refresh Feed" = "刷新Feed";
+
+/* na */
+"Refreshing Feeds" = "正在刷新Feeds...";
+
+/* na */
+"Downloading Pages" = "正在下载页面...";
+
+/* na */
+"Updating Inbox..." = "正在更新收件箱...";
+
+/* na */
+"Database not available" = "数据库不可用";
+
+/* na */
+"The database \"%@\" this Spotlight result points to is not available. Maybe you have moved it to another volume or deleted it? Please open this database from your external volume once to update your Spotlight cache." = "这个数据库 \"%@\" Spotlight的结果指向是不可用的。可能你此前已经将它移至了另一个卷或者删除了？请从您的外部卷打开一次这个数据库，以更新你的Spotlight缓存。";
+
+/* na */
+"Optimization of database failed." = "优化数据库失败。";
+
+/* na */
+"Couldn't create Zip archive." = "创建Zip文件失败。";
+
+/* na */
+"Verification of database failed." = "验证数据库失败。";
+
+/* na */
+"width_height" = "宽x高";
+
+/* na */
+"duration" = "持续时间";
+
+/* na */
+"Enclosing Groups" = "闭合分组";
+
+/* na */
+"Do you want to install the template \"%@\" or do you want to import it?" = "你想安装还是导入模板 \"%@\"？";
+
+/* na */
+"Import" = "导入";
+
+/* na */
+"Install" = "安装";
+
+/* na */
+"Tag" = "标签";
+
+/* na */
+"Tags" = "标签";
+
+/* na */
+"Moving" = "移动";
+
+/* na */
+"No tags" = "没有标签";
+
+/* na */
+"No\nGroups" = "没有\n分组";
+
+/* na */
+"Open Location" = "打开位置";
+
+/* na */
+"No File" = "没有文件";
+
+/* na */
+"Consolidate" = "并入数据库";
+
+/* na */
+"Consolidating" = "移动";
+
+/* na */
+"Deconsolidate" = "移动到外部文件夹";
+
+/* na */
+"Deconsolidating" = "移动";
+
+/* na */
+"Sync" = "手机同步";
+
+/* na */
+"Installed" = "已安装";
+
+/* na */
+"Page:" = "页面：";
+
+/* na */
+"Workspaces" = "工作区";
+
+/* na */
+"Workspace" = "工作区";
+
+/* na */
+"Add Workspace" = "添加工作区";
+
+/* na */
+"Delete Workspace" = "删除工作区";
+
+/* na */
+"Update Workspace" = "更新工作区";
+
+/* na */
+"Add..." = "添加...";
+
+/* na */
+"Delete..." = "删除...";
+
+/* na */
+"Edit..." = "编辑...";
+
+/* na */
+"Update..." = "更新...";
+
+/* na */
+"Edit Workspaces" = "编辑工作区";
+
+/* na */
+"Do you really want to delete this database?" = "确定要删除这个数据库吗？";
+
+/* na */
+"Update Bookmark" = "更新书签";
+
+/* na */
+"aliases" = "别名";
+
+/* na */
+"tags" = "标签";
+
+/* na */
+"Other..." = "其他...";
+
+/* na */
+"Choose Application" = "选择应用";
+
+/* na */
+"OCR failed for document '%@'." = "OCR文件'%@'失败。";
+
+/* na */
+"PDF (One Page)" = "PDF（一页）";
+
+/* na */
+"PDF (Paginated)" = "PDF（分页）";
+
+/* na */
+"HTML Page" = "HTML页面";
+
+/* na */
+"Bookmarklet (%@)" = "Bookmarklet：%@";
+
+/* na */
+"Selection" = "选择";
+
+/* na */
+"Time:" = "时间：";
+
+/* na */
+"Formatted Note" = "格式化的笔记";
+
+/* na */
+"Formatted Note %d" = "格式化的笔记%d";
+
+/* na */
+"Add Link..." = "添加链接...";
+
+/* na */
+"Edit Link..." = "修改链接...";
+
+/* na */
+"Move Originals to Trash" = "将原稿移至废纸篓";
+
+/* na */
+"New Formatted Note" = "新建格式化的笔记";
+
+/* na */
+"New Markdown File" = "新建Markdown文本";
+
+/* na */
+"Markdown File %d" = "Markdown文本%d";
+
+/* na */
+"There are some locked items in the Trash. Do you want to remove all the items, including the locked ones, or just the unlocked items?" = "废纸篓里存在锁定的条目。你要移除包括锁定条目在内的所有条目，还是只移除未锁定条目?";
+
+/* na */
+"Removed Unlocked Items" = "移除未锁定条目";
+
+/* na */
+"Remove All Items" = "移除所有条目";
+
+/* na */
+"Markdown" = "Markdown";
+
+/* na */
+"Checking for updates" = "检查更新";
+
+/* na */
+"No subject" = "无标题";
+
+/* na */
+"Volume not mounted:\n%@" = "卷未挂载：\n%@";
+
+/* na */
+"The database can't be opened because it's in the Trash. To use this item, first drag it out of the Trash." = "无法打开数据库，因为它在废纸篓里。\n\n要使用数据库，需要先把它从废纸篓中拖出来。";
+
+/* na */
+"Insert Checkbox" = "插入复选框";
+
+/* na */
+"Checkbox" = "复选框";
+
+"Databases can't be located in cloud folders" = "Databases can't be located in cloud 文件夹";
+"DEVONthink can automatically relocate the database \"%@\" to a safe location in your Home directory or show it in the Finder to move it on your own." = "DEVONthink可以自动将数据库\"%@\"转移至您的主目录中的安全位置，或者在Finder中显示它，以便你可以自己移动它。";
+"Show in Finder" = "在Finder中显示";
+"Relocate" = "迁移";
+"Databases" = "数据库";

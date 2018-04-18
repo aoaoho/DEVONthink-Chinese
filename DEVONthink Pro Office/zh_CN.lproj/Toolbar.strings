@@ -1,0 +1,441 @@
+
+/* na */
+"New Plain Text" = "纯文本";
+
+/* na */
+"New Rich Text" = "富文本";
+
+/* na */
+"New Group" = "分组";
+
+/* na */
+"TO_NEWGROUP" = "新建分组";
+
+/* na */
+"Open" = "打开";
+
+/* na */
+"Move To Trash" = "移至废纸篓";
+
+/* na */
+"Move All Instances To Trash" = "将所有实例移至废纸篓";
+
+/* na */
+"Delete" = "删除";
+
+/* na */
+"Show Info" = "信息";
+
+/* na */
+"Fonts" = "字体";
+
+/* na */
+"Colors" = "颜色";
+
+/* na */
+"Print" = "打印";
+
+/* na */
+"Save" = "保存";
+
+/* na */
+"Find" = "搜索";
+
+/* na */
+"Open search panel" = "打开搜索窗口";
+
+/* na */
+"Search" = "查找";
+
+/* na */
+"Make Plain Text" = "制作纯文本";
+
+/* na */
+"Make Rich Text" = "制作富文本";
+
+/* na */
+"Previous/Next" = "转至文档";
+
+/* na */
+"Group" = "分组条目";
+
+/* na */
+"Ungroup" = "取消分组条目";
+
+/* na */
+"Auto Classify" = "自动归类";
+
+/* na */
+"Export" = "导出";
+
+/* na */
+"Open Externally" = "打开外部";
+
+/* na */
+"Import" = "导入";
+
+/* na */
+"Create a new plain text" = "创建一个新纯文本";
+
+/* na */
+"Create a new rich text" = "创建一个新富文本";
+
+/* na */
+"Create a new group" = "创建一个新分组";
+
+/* na */
+"Open the current selection" = "打开当前选择";
+
+/* na */
+"Show info panel" = "显示信息";
+
+/* na */
+"Show fonts panel" = "显示字体面板";
+
+/* na */
+"Show colors panel" = "显示颜色面板";
+
+/* na */
+"Print document" = "打印文档";
+
+/* na */
+"Save document" = "保存文档";
+
+/* na */
+"Find text" = "查找和替换文本";
+
+/* na */
+"Make plain text" = "制作纯文本";
+
+/* na */
+"Make rich text" = "制作富文本";
+
+/* na */
+"Go to document" = "转至文稿";
+
+/* na */
+"Group the current selection" = "分组当前选择";
+
+/* na */
+"Ungroup the selected groups" = "取消选定的分组";
+
+/* na */
+"Auto classify the selected documents" = "自动归类选中的文档";
+
+/* na */
+"Export the current selection" = "导出当前选择";
+
+/* na */
+"Open in external editor or viewer" = "打开外部编辑器或查看器";
+
+/* na */
+"Import files" = "导入文件";
+
+/* na */
+"Bigger Font" = "更大字体";
+
+/* na */
+"Smaller Font" = "更小字体";
+
+/* na */
+"Increase font size" = "增大字号";
+
+/* na */
+"Decrease font size" = "减小字号";
+
+/* na */
+"Highlighting" = "高亮显示";
+
+/* na */
+"Strike Through" = "删除线";
+
+/* na */
+"Underline" = "下划线";
+
+/* na */
+"Markup" = "标记";
+
+/* na */
+"Toggle highlighting of selected text" = "添加或移除选定文本的高亮显示";
+
+/* na */
+"Create a new link" = "创建一个新的书签";
+
+/* na */
+"New Link" = "书签";
+
+/* na */
+"Zoom In" = "放大";
+
+/* na */
+"Zoom in" = "放大";
+
+/* na */
+"Zoom Out" = "缩小";
+
+/* na */
+"Zoom out" = "缩小";
+
+/* na */
+"DEVONagent" = "DEVONagent";
+
+/* na */
+"Launch DEVONagent" = "启动DEVONagent（同时打开当前位置）";
+
+/* na */
+"Backup" = "备份";
+
+/* na */
+"Backup & Optimize" = "备份和优化";
+
+/* na */
+"Verify" = "验证";
+
+/* na */
+"Verify & Repair" = "验证&修复";
+
+/* na */
+"Link" = "链接";
+
+/* na */
+"Toggle Link" = "制作或移除链接";
+
+/* na */
+"View" = "视图";
+
+/* na */
+"Zoom To Fit" = "缩放以适应";
+
+/* na */
+"Actual Size" = "实际尺寸";
+
+/* na */
+"Zoom To Actual Size" = "放大到实际尺寸";
+
+/* na */
+"Full Screen" = "全屏";
+
+/* na */
+"Display Full Screen" = "全屏显示";
+
+/* na */
+"Launch URL" = "启动URL网址";
+
+/* na */
+"Launch Path" = "启动路径";
+
+/* na */
+"Actions" = "动作";
+
+/* na */
+"Scripts" = "脚本";
+
+/* na */
+"Go to top level or enclosing group" = "转至顶层或封闭分组";
+
+/* na */
+"Top Level/Enclosing Group" = "顶层/封闭分组";
+
+/* na */
+"Top Level Group" = "顶层分组";
+
+/* na */
+"Enclosing Group" = "封闭分组";
+
+/* na */
+"Navigation" = "导航";
+
+/* na */
+"Go" = "转至";
+
+/* na */
+"Subscript" = "下标";
+
+/* na */
+"Superscript" = "上标";
+
+/* na */
+"Table" = "工作表";
+
+/* na */
+"Record" = "记录";
+
+/* na */
+"Create a new table" = "创建一个新的工作表";
+
+/* na */
+"Create a new record" = "创建一个新的纪录";
+
+/* na */
+"First" = "首个";
+
+/* na */
+"Previous" = "上一个";
+
+/* na */
+"Next" = "下一个";
+
+/* na */
+"Last" = "最后一个";
+
+/* na */
+"Go to first document" = "转至首个文档";
+
+/* na */
+"Go to previous document" = "转至上一个文档";
+
+/* na */
+"Go to next document" = "转至下一个文档";
+
+/* na */
+"Go to last document" = "转至最后一个文档";
+
+/* na */
+"Add Record" = "添加纪录";
+
+/* na */
+"Delete Records" = "删除记录";
+
+/* na */
+"Add Column" = "添加列";
+
+/* na */
+"Delete Columns" = "删除列";
+
+/* na */
+"Columns" = "列";
+
+/* na */
+"Add new record" = "添加一个新记录";
+
+/* na */
+"Delete selected records" = "删除所选记录";
+
+/* na */
+"Add new column" = "添加一个新列";
+
+/* na */
+"Delete selected columns" = "删除所选列";
+
+/* na */
+"Edit columns" = "编辑列";
+
+/* na */
+"Ruler" = "标尺";
+
+/* na */
+"Toggle Ruler" = "显示标尺";
+
+/* na */
+"Label" = "标注";
+
+/* na */
+"Set label" = "设定标注";
+
+/* na */
+"Show/Hide Sidebar" = "侧边栏";
+
+/* na */
+"Annotate" = "注解";
+
+/* na */
+"Tool" = "工具";
+
+/* na */
+"Ellipse" = "椭圆形";
+
+/* na */
+"Rectangle" = "矩形";
+
+/* na */
+"Comment" = "注释";
+
+/* na */
+"Free Text" = "文本";
+
+/* na */
+"Grab" = "移动";
+
+/* na */
+"Text" = "文本";
+
+/* na */
+"Selection" = "选取";
+
+/* na */
+"Zoom To Width" = "缩放至宽度";
+
+/* na */
+"Quick Look" = "快速查看";
+
+/* na */
+"Reveal" = "显示文件位置";
+
+/* na */
+"Show In Finder" = "在Finder中显示";
+
+/* na */
+"Rotate Left" = "向左旋转";
+
+/* na */
+"Rotate Right" = "向右旋转";
+
+/* na */
+"Check" = "加旗标";
+
+/* na */
+"Uncheck" = "取消旗标";
+
+/* na */
+"Check/Uncheck" = "标记为：旗标/未加旗标";
+
+/* na */
+"Smart Group" = "智能分组";
+
+/* na */
+"New Smart Group" = "新建智能分组";
+
+/* na */
+"Delete Pages" = "删除页面";
+
+/* na */
+"Delete Selected Pages" = "删除选定的页面";
+
+/* na */
+"Update Indexing" = "更新索引";
+
+/* na */
+"Update Indexed Items" = "更新索引条目";
+
+/* na */
+"Refresh" = "刷新";
+
+/* na */
+"Refresh Feeds" = "刷新Feeds";
+
+/* na */
+"As Icons" = "图标形式";
+
+/* na */
+"As List" = "列表形式";
+
+/* na */
+"As Columns" = "多列形式";
+
+/* na */
+"As Split" = "分割形式";
+
+/* na */
+"As 3-Pane" = "三分窗格形式";
+
+/* na */
+"As Tags" = "标签形式";
+
+/* na */
+"Create a new formatted note" = "创建一个新的格式化的笔记";
+
+/* na */
+"New Formatted Note" = "格式化的笔记";
+
+/* na */
+"Line" = "行";

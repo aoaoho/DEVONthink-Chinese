@@ -1,0 +1,86 @@
+/* na */
+"Updated" = "已更新";
+
+/* na */
+"Unknown" = "未知";
+
+/* na */
+"No text" = "没有文本";
+
+/* na */
+"Failed" = "已失败";
+
+/* na */
+"Classify Failed" = "归类失败";
+
+/* na */
+"Classified" = "已归类";
+
+/* na */
+"Conversion Failed" = "转换失败";
+
+/* na */
+"Added" = "已添加";
+
+/* na */
+"Exporting" = "正在导出";
+
+/* na */
+"Importing" = "正在输入";
+
+/* na */
+"Rebuilding" = "正在重建...";
+
+/* na */
+"Done" = "已完成";
+
+/* na */
+"Removed" = "已移除";
+
+/* na */
+"Converted" = "已转换";
+
+/* na */
+"Encrypted" = "已加密";
+
+/* na */
+"Missing" = "缺少文件";
+
+/* na */
+"Orphaned" = "孤立文件";
+
+/* na */
+"Missing Indexed File" = "缺少索引文件";
+
+/* na */
+"Duplicate" = "独立副本（Duplicate）";
+
+/* na */
+"Tagged" = "已加标签";
+
+/* na */
+"Bookmarked" = "已加书签";
+
+/* na */
+"Skipped" = "已跳过";
+
+/* na */
+"Summarized" = "已总结";
+
+/* na */
+"Moved to Trash" = "已移至废纸篓";
+
+/* na */
+"In Trash" = "废纸篓中的条目";
+
+/* na */
+"UUID already in database" = "数据库中已存在UUID";
+
+/* na */
+"File still pending" = "文件仍在等待";
+
+/* na */
+"Databases shouldn't be located in cloud folders." = "数据库不应该位于云文件夹中。";
+
+/* na */
+"Successfully verified" = "验证成功";

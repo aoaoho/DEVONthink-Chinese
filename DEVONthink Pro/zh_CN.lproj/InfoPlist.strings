@@ -1,0 +1,11 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleGetInfoString = "2.9.17 ©2001-2018 DEVONtechnologies.";
+NSHumanReadableCopyright = "©2001-2018 DEVONtechnologies.";
+
+"DEVONthink Pro Database" = "DEVONthink Pro 数据库";
+"DEVONthink Pro 2 Database" = "DEVONthink Pro 2 数据库";
+"DEVONthink Pro Record" = "DEVONthink Pro 记录";
+"DEVONthink Pro Document" = "DEVONthink Pro 文档";
+"DEVONthink Pro Script Template" = "DEVONthink Pro 脚本模版";
+"DEVONthink Pro Template" = "DEVONthink Pro 模版";

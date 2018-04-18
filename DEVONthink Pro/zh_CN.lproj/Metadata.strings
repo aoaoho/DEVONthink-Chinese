@@ -1,0 +1,44 @@
+"kMDItemTitle" = "标题";
+"kMDItemHeadline" = "段落标题";
+"kMDItemSubject" = "主题";
+
+"kMDItemKeywords" = "关键字";
+"kMDItemDescription" = "描述";
+"kMDItemCopyright" = "版权";
+"kMDItemComment" = "注释";
+"kMDItemURL" = "URL网址";
+
+"kMDItemCreator" = "发起人";
+"kMDItemProducer" = "制作人";
+
+"kMDItemAuthors" = "作者";
+"kMDItemAuthorEmailAddresses" = "From";
+"kMDItemRecipients" = "收件人";
+"kMDItemRecipientEmailAddresses" = "To";
+"kMDItemEmailAddresses" = "E-mail";
+
+"kMDItemAlbum" = "合辑";
+"kMDItemComposer" = "著作人";
+
+"kMDItemContributors" = "撰稿人";
+"kMDItemPublishers" = "出版方";
+"kMDItemEditors" = "编辑";
+"kMDItemOrganizations" = "组织";
+
+"Document Properties" = "文档属性";
+"Author:" = "作者：";
+"Company:" = "公司：";
+"Copyright:" = "版权：";
+"Title:" = "标题：";
+"Subject:" = "主题：";
+"Keywords:" = "关键字：";
+"Comment:" = "注释：";
+"Title of the document. Not applicable to plain text documents." = "文档标题。只适用于富文本格式和PDF文档。";
+"Subject of the document. Not applicable to plain text documents." = "文档主题。只适用于富文本格式和PDF文档。";
+"Author(s) of the document. Not applicable to plain text documents." = "文档作者。只适用于富文本格式和PDF文档。";
+"Keywords describing the document. Not applicable to plain text documents." = "关键字描述文档只适用于富文本格式和PDF文档。";
+"Comments. Not applicable to plain text documents." = "注释。只适用于富文本格式。";
+"Company or organization name. Not applicable to plain text documents." = "公司或组织名称。只适用于富文本格式。";
+"Copyright notice or other rights information. Not applicable to plain text documents." = "版权声明或其它权利的信息。只适用于富文本格式。";
+
+"by %@" = "按%@";

@@ -1,0 +1,21 @@
+"Undo %@" = "撤销 %@";
+"Redo %@" = "重做 %@";
+
+"Replicate" = "镜像副本（Replicants）";
+"Classify" = "归类";
+"Move" = "移动";
+"Group" = "分组条目";
+"Ungroup" = "未分组条目";
+"Auto Group" = "自动分组条目";
+"Auto Classify" = "自动归类";
+"Delete" = "删除";
+
+"Label" = "标注";
+"Locking" = "锁定";
+"Exclude from Classification" = "从分类排除";
+"Exclude from See Also" = "从参阅排除";
+"Exclude from Search" = "从搜索排除";
+"Exclude from Tagging" = "从标签排除";
+"State" = "旗标";
+"Unread" = "未读";
+"Merge" = "合并";

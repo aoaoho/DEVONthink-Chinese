@@ -1,0 +1,10 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "DEVONthink";
+CFBundleDisplayName = "DEVONthink";
+
+CFBundleGetInfoString = "2.9.17 ©2001-2018 DEVONtechnologies.";
+NSHumanReadableCopyright = "©2001-2018 DEVONtechnologies.";
+
+"DEVONthink Document" = "DEVONthink 文档";
+"DEVONthink Template" = "DEVONthink 模版";
