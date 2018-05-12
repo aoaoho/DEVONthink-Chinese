@@ -24,7 +24,7 @@
 "Delete" = "删除";
 
 /* na */
-"Show Info" = "信息";
+"Show Info" = "简介";
 
 /* na */
 "Fonts" = "字体";
@@ -87,7 +87,7 @@
 "Open the current selection" = "打开当前选择";
 
 /* na */
-"Show info panel" = "显示信息";
+"Show info panel" = "显示简介";
 
 /* na */
 "Show fonts panel" = "显示字体面板";
@@ -231,16 +231,16 @@
 "Scripts" = "脚本";
 
 /* na */
-"Go to top level or enclosing group" = "转至顶层或封闭分组";
+"Go to top level or enclosing group" = "转至顶层或所属分组";
 
 /* na */
-"Top Level/Enclosing Group" = "顶层/封闭分组";
+"Top Level/Enclosing Group" = "顶层/所属分组";
 
 /* na */
 "Top Level Group" = "顶层分组";
 
 /* na */
-"Enclosing Group" = "封闭分组";
+"Enclosing Group" = "所属分组";
 
 /* na */
 "Navigation" = "导航";
@@ -411,7 +411,7 @@
 "Refresh" = "刷新";
 
 /* na */
-"Refresh Feeds" = "刷新Feeds";
+"Refresh Feeds" = "刷新RSS订阅";
 
 /* na */
 "As Icons" = "图标形式";

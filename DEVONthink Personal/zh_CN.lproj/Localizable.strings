@@ -604,13 +604,13 @@
 "as %@..." = "as %@...";
 
 /* na */
-"Copy Page Address" = "复制页面地址";
+"Copy Page Address" = "拷贝页面地址";
 
 /* na */
-"Copy Frame Address" = "复制Frame地址";
+"Copy Frame Address" = "拷贝Frame地址";
 
 /* na */
-"Copy Image Address" = "复制图像地址";
+"Copy Image Address" = "拷贝图像地址";
 
 /* na */
 "Restore Backup" = "恢复备份";
@@ -860,10 +860,10 @@
 "Remove" = "移除";
 
 /* na */
-"Show Details" = "显示细节";
+"Show Details" = "显示详情";
 
 /* na */
-"Hide Details" = "隐藏细节";
+"Hide Details" = "隐藏详情";
 
 /* na */
 "Services" = "服务";
@@ -917,13 +917,13 @@
 "%@\tPage -%d-" = "%@\tPage -%d-";
 
 /* na */
-"Any label" = "任意";
+"Any label" = "不限";
 
 /* na */
 "Cut" = "剪切";
 
 /* na */
-"Copy" = "复制";
+"Copy" = "拷贝";
 
 /* na */
 "Paste" = "粘贴";
@@ -1063,7 +1063,7 @@
 "New Bookmark" = "新建书签";
 
 /* na */
-"New Feed" = "新建Feed";
+"New Feed" = "新建RSS订阅";
 
 /* na */
 "New Table" = "新建工作簿";
@@ -1114,7 +1114,7 @@
 "Bookmark %d" = "书签%d";
 
 /* na */
-"Feed %d" = "Feed%d";
+"Feed %d" = "RSS订阅 %d";
 
 /* na */
 "Table %d" = "工作簿%d";
@@ -1228,13 +1228,13 @@
 "To-Do" = "ToDo";
 
 /* na */
-"Refresh Feeds" = "刷新Feeds";
+"Refresh Feeds" = "刷新RSS订阅";
 
 /* na */
-"Refresh Feed" = "刷新Feed";
+"Refresh Feed" = "刷新RSS订阅";
 
 /* na */
-"Refreshing Feeds" = "正在刷新Feeds...";
+"Refreshing Feeds" = "正在刷新RSS订阅...";
 
 /* na */
 "Downloading Pages" = "正在下载页面...";

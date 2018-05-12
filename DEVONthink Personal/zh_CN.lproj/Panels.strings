@@ -1,14 +1,14 @@
-"Information" = "信息";
-"Size:" = "尺寸";
+"Information" = "简介";
+"Size:" = "大小：";
 "Name:" = "名称：";
 "File:" = "文件：";
 "URL:" = "URL：";
-"Modified:" = "已修改：";
-"Locked" = "已锁定";
+"Modified:" = "修改时间：";
+"Locked" = "锁定";
 "Launch URL in default application" = "以默认应用启动URL";
 "Kind:" = "种类：";
-"Added:" = "已添加：";
-"Created:" = "已创建：";
+"Added:" = "添加时间：";
+"Created:" = "创建时间：";
 "Location:" = "位置：";
 "Path:" = "路径：";
 "Launch path in default application" = "以默认应用启动路径";
@@ -20,12 +20,12 @@
 "Classification" = "分类";
 "See Also" = "参阅";
 "Search" = "搜索";
-"Tagging" = "加标签";
+"Tagging" = "标签";
 "Select..." = "选择...";
 "Script:" = "脚本：";
 "Label:" = "标注：";
 "Tags:" = "标签：";
-"Additional Information" = "附加信息";
+"Additional Information" = "附加简介";
 "Basic Information" = "通用";
 
 "Database Properties" = "数据库属性";
@@ -55,7 +55,7 @@
 "PDF/PS:" = "PDF/PS：";
 "Property Lists:" = "属性列表：";
 "Bookmarks:" = "书签：";
-"Feeds:" = "Feeds：";
+"Feeds:" = "RSS订阅：";
 "Total:" = "总数：";
 "Unknown:" = "未知：";
 "Rebuild" = "重建";
@@ -63,14 +63,14 @@
 "Creating Spotlight Index..." = "创建Spotlight索引...";
 "Shared Database" = "共享数据库";
 
-"Age" = "年龄";
-"Size" = "尺寸";
+"Age" = "年份";
+"Size" = "大小";
 "Date" = "日期";
 
 "Log" = "日志";
 "Time" = "时间";
 "File/Action" = "文件/动作";
-"Info" = "信息";
+"Info" = "简介";
 "Clear" = "清除";
 "Save..." = "保存...";
 

@@ -4,7 +4,7 @@
 "Analogy" = "类比";
 "Any Word" = "任意词汇";
 "Any" = "不限";
-"Clear Entries" = "清除条目";
+"Clear Entries" = "清除记录";
 "Comment" = "注释";
 "Comparison" = "对照";
 "Comparison:" = "对照：";
@@ -24,9 +24,9 @@
 "Modified" = "修改";
 "Name" = "名称";
 "No Case" = "No Case";
-"No Entries" = "No Entries";
-"Off" = "关闭";
-"On" = "打开";
+"No Entries" = "没有记录";
+"Off" = "否";
+"On" = "是";
 "Operator" = "操作者";
 "Operator:" = "操作者：";
 "Phrase" = "词组";
@@ -41,12 +41,12 @@
 "Prefix" = "字首";
 "Search" = "搜索";
 "Similar Words" = "类似的词汇";
-"Size" = "尺寸";
+"Size" = "大小";
 "Spelling" = "拼写";
 "State:" = "旗标：";
 "Tags" = "标签";
 "URL" = "URL";
-"Meta Data" = "描述";
+"Meta Data" = "摘要数据";
 "Data" = "数据";
 "URL/Path" = "URL/Path";
 "Wildcards" = "通配符";

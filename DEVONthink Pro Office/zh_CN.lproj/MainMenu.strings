@@ -68,13 +68,13 @@
 "HTML Page..." = "HTML页面";
 "Picture..." = "图像";
 "Bookmark..." = "书签...";
-"Feed..." = "Feed...";
+"Feed..." = "RSS订阅...";
 "Script..." = "脚本";
 "XML File..." = "XML文件";
 "Markdown File..." = "Markdown文本";
 "Property List..." = "属性列表";
 "A Group" = "分组";
-"To Group" = "分组项";
+"To Group" = "分组条目";
 "Smart Group" = "智能分组...";
 "Open..." = "打开";
 "Open Externally" = "打开外部的";
@@ -95,7 +95,7 @@
 "Unlock" = "为未锁定";
 "Duplicate" = "独立副本（Duplicate）";
 "Replicate" = "镜像副本（Replicant）";
-"Merge" = "合并/Merge";
+"Merge" = "合并";
 "Delete All Instances" = "删除所有实例";
 "Thumbnails" = "缩略图";
 "Create" = "创建";
@@ -174,13 +174,13 @@
 "as Columns" = "多列形式";
 "as Split" = "分割形式";
 "Wide Screen" = "宽屏";
-"Show Details" = "显示详细信息";
+"Show Details" = "显示详情";
 "Cover Flow" = "封面流";
 "Sort" = "排序";
 "Unsorted" = "未归类的";
 "by Name" = "按名称";
 "by Kind" = "按种类";
-"by Size" = "按尺寸";
+"by Size" = "按大小";
 "by Date Added" = "按添加时间";
 "by Date Created" = "按创建时间";
 "by Date Modified" = "按修改时间";
@@ -199,7 +199,7 @@
 "Date Created" = "创建日期";
 "Date Modified" = "修改日期";
 "Kind" = "种类";
-"Size" = "尺寸";
+"Size" = "大小";
 "Word Count" = "字数";
 "URL" = "URL";
 "Path" = "路径";
@@ -248,8 +248,8 @@
 "Backup & Optimize" = "备份&优化";
 "Restore Backup..." = "恢复备份...";
 "Rebuild Database..." = "重建数据库...";
-"Show Info..." = "显示信息...";
-"Hide Info..." = "隐藏信息...";
+"Show Info..." = "显示简介...";
+"Hide Info..." = "隐藏简介...";
 "Hide Properties..." = "隐藏属性...";
 "Show Properties..." = "显示属性...";
 "Show Groups" = "显示分组和标签";
@@ -384,7 +384,7 @@
 
 "Quick Look" = "快速查看";
 "Slideshow" = "幻灯片";
-"Information" = "获取信息";
+"Information" = "显示简介";
 "Document As..." = "文档...";
 
 "Capture" = "捕捉";

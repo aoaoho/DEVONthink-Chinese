@@ -6,8 +6,8 @@
 "URL" = "URL";
 "Tag" = "标签";
 "Data" = "数据";
-"Meta Data" = "Meta Data";
-"Metadata" = "Metadata";
+"Meta Data" = "摘要数据";
+"Metadata" = "摘要数据";
 
 "Kind" = "种类";
 "Instance" = "实例";
@@ -79,7 +79,7 @@
 
 "Any" = "任意";
 "All" = "全部";
-"of the following are true" = "以下是真实的";
+"of the following are true" = "以下条件成立";
 
 "Any Content" = "任意文档";
 "Group" = "分组";
@@ -96,7 +96,7 @@
 "Video" = "视频";
 "Audio" = "音频";
 "Bookmark" = "书签";
-"Feed" = "Feed";
+"Feed" = "RSS订阅";
 "Sheet" = "工作簿";
 "Other" = "其他";
 "Email" = "Email";
