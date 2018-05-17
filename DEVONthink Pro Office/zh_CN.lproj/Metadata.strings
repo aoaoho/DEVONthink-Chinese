@@ -12,9 +12,9 @@
 "kMDItemProducer" = "制作人";
 
 "kMDItemAuthors" = "作者";
-"kMDItemAuthorEmailAddresses" = "From";
+"kMDItemAuthorEmailAddresses" = "来自";
 "kMDItemRecipients" = "收件人";
-"kMDItemRecipientEmailAddresses" = "To";
+"kMDItemRecipientEmailAddresses" = "送往";
 "kMDItemEmailAddresses" = "E-mail";
 
 "kMDItemAlbum" = "合辑";

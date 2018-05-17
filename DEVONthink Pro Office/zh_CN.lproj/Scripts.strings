@@ -111,16 +111,16 @@
 "Format" = "格式";
 
 /* na */
-"Body Normal" = "正常字号/Body Normal";
+"Body Normal" = "正常字号";
 
 /* na */
-"Body Small" = "小字号/Body Small";
+"Body Small" = "小字号";
 
 /* na */
-"Header Main" = "主标题/Header Main";
+"Header Main" = "主标题";
 
 /* na */
-"Header Secondary" = "次要标题/Header Secondary";
+"Header Secondary" = "次要标题";
 
 /* na */
 "Source" = "来源";
@@ -177,7 +177,7 @@
 "Find similar contents" = "查找并移除相似内容...";
 
 /* na */
-"Duplicates to trash" = "将独立副本（Duplicates）移至废纸篓";
+"Duplicates to trash" = "将副本（Duplicates）移至废纸篓";
 
 /* na */
 "Thumbnails" = "缩略图";
@@ -186,10 +186,10 @@
 "Header Capitalized" = "标题大写";
 
 /* na */
-"Group With Duplicates" = "将独立副本（Duplicates）分组";
+"Group With Duplicates" = "将副本（Duplicates）分组";
 
 /* na */
-"Group With Replicants" = "将镜像副本（Replicants）分组";
+"Group With Replicants" = "将替身（Replicants）分组";
 
 /* na */
 "Man Page" = "操作手册...";
@@ -204,10 +204,10 @@
 "Touch Modification Date" = "Touch修改日期";
 
 /* na */
-"Creation > Modification Date" = "拷贝创建到修改日期";
+"Creation > Modification Date" = "拷贝创建时间到修改时间";
 
 /* na */
-"Modification > Creation Date" = "拷贝修改到创建日期";
+"Modification > Creation Date" = "拷贝修改时间到创建时间";
 
 /* na */
 "Daily backup archive" = "每日备份存档";

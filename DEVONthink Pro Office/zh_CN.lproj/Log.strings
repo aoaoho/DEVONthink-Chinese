@@ -2,7 +2,7 @@
 "Updated" = "已更新";
 
 /* na */
-"Unknown" = "未知";
+"Unknown" = "未知格式";
 
 /* na */
 "No text" = "没有文本";
@@ -53,7 +53,7 @@
 "Missing Indexed File" = "缺少索引文件";
 
 /* na */
-"Duplicate" = "独立副本（Duplicate）";
+"Duplicate" = "制作副本（Duplicate）";
 
 /* na */
 "Tagged" = "已加标签";

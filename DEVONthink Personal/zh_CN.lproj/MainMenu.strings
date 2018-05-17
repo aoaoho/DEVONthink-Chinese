@@ -93,8 +93,8 @@
 "Uncheck" = "为无旗标";
 "Lock" = "为已锁定";
 "Unlock" = "为未锁定";
-"Duplicate" = "独立副本（Duplicate）";
-"Replicate" = "镜像副本（Replicant）";
+"Duplicate" = "制作副本（Duplicate）";
+"Replicate" = "制作替身（Replicate）";
 "Merge" = "合并";
 "Delete All Instances" = "删除所有实例";
 "Thumbnails" = "缩略图";
@@ -179,7 +179,7 @@
 "Sort" = "排序";
 "Unsorted" = "未归类的";
 "by Name" = "按名称";
-"by Kind" = "按种类";
+"by Kind" = "按类型";
 "by Size" = "按大小";
 "by Date Added" = "按添加时间";
 "by Date Created" = "按创建时间";
@@ -198,7 +198,7 @@
 "Date Added" = "添加日期";
 "Date Created" = "创建日期";
 "Date Modified" = "修改日期";
-"Kind" = "种类";
+"Kind" = "类型";
 "Size" = "大小";
 "Word Count" = "字数";
 "URL" = "URL";
@@ -361,8 +361,8 @@
 "Save Search" = "保存搜索";
 "Text Alternative" = "文本替代";
 
-"Crop Box" = "Crop Box";
-"Media Box" = "Media Box";
+"Crop Box" = "裁剪框";
+"Media Box" = "媒体框";
 "Actions" = "动作";
 "Show As Text Alternative" = "显示为文本替代";
 "Show As Best Alternative" = "显示为最佳替代";

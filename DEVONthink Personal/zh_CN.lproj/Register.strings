@@ -71,7 +71,7 @@
 "Unregistered: %%d (%.1f hours left)" = "未注册：%%d（还剩%.1f小时）";
 
 /* na */
-"Buy Now (%d hours left)" = "立即购买！ - 还剩%d小时。";
+"Buy Now (%d hours left)" = "立即购买！ - 还剩 %d 小时。";
 
 /* na */
 "Purchase" = "购买";

@@ -9,7 +9,7 @@
 "Meta Data" = "摘要数据";
 "Metadata" = "摘要数据";
 
-"Kind" = "种类";
+"Kind" = "类型";
 "Instance" = "实例";
 "Record" = "条目";
 
@@ -22,7 +22,7 @@
 "Width" = "宽";
 "Height" = "高";
 "Duration" = "持续时间";
-"Size" = "尺寸";
+"Size" = "大小";
 "Word Count" = "字数";
 
 "Date Added" = "添加日期";
@@ -44,15 +44,15 @@
 "Aliases" = "别名";
 "Script" = "脚本";
 
-"Replicant" = "镜像副本（Replicant）";
-"Duplicate" = "独立副本（Duplicate）";
+"Replicant" = "制作替身（Replicant）";
+"Duplicate" = "制作副本（Duplicate）";
 "Indexed" = "已索引";
 "Tagged" = "已加标签";
 
 "Author" = "作者";
-"From" = "From";
+"From" = "来自";
 "Recipient" = "收件人";
-"To" = "To";
+"To" = "送往";
 
 "Title" = "标题";
 "Headline" = "段落标题";
@@ -63,8 +63,8 @@
 "Organization" = "组织";
 "Copyright" = "版权";
 
-"Album" = "专辑/Album";
-"Composer" = "著作者/Composer";
+"Album" = "专辑";
+"Composer" = "著作者";
 
 "Today" = "今天";
 "Yesterday" = "昨天";
