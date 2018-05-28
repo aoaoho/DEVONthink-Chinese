@@ -87,3 +87,12 @@
 
 /* na */
 "The entered license code is not valid for this application but it is for %@. Please download and install %@ which will happily accept this license code." = "输入的许可证代码在该应用中无效，但它是%@。请下载并安装%@，它会很乐意接受这个许可证代码。";
+
+/* na */
+"Check for Updates" = "检查更新...";
+
+/* na */
+"Checking for Updates" = "检查更新...";
+
+/* na */
+"Update On Quit" = "在退出时更新...";

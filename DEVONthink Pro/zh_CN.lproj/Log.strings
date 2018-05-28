@@ -65,6 +65,9 @@
 "Skipped" = "已跳过";
 
 /* na */
+"Skipped already imported email" = "跳过已导入的邮件";
+
+/* na */
 "Summarized" = "已总结";
 
 /* na */
@@ -84,3 +87,6 @@
 
 /* na */
 "Successfully verified" = "验证成功";
+
+/* na */
+"Please remove this obsolete and incompatible extension." = "强烈建议删除这个过时且不兼容的扩展。";

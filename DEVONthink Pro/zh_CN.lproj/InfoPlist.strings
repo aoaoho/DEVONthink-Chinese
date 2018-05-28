@@ -1,6 +1,6 @@
 /* Localized versions of Info.plist keys */
 
-CFBundleGetInfoString = "2.9.17 ©2001-2018 DEVONtechnologies.";
+CFBundleGetInfoString = "2.10 ©2001-2018 DEVONtechnologies.";
 NSHumanReadableCopyright = "©2001-2018 DEVONtechnologies.";
 
 "DEVONthink Pro Database" = "DEVONthink Pro 数据库";

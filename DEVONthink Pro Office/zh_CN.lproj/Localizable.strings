@@ -743,9 +743,6 @@
 "Label:" = "标注：";
 
 /* na */
-"File:" = "文件：";
-
-/* na */
 "Words:" = "词汇：";
 
 /* na */
@@ -1448,3 +1445,4 @@
 "Show in Finder" = "在Finder中显示";
 "Relocate" = "迁移";
 "Databases" = "数据库";
+"Import of %d messages failed." = "%d 消息导入失败。";
