@@ -34,8 +34,8 @@
 "Score" = "评分";
 "Search for" = "搜索";
 "Search for:" = "搜索：";
-"Search in" = "在...中搜索";
-"Search in:" = "在...中搜索：";
+"Search in" = "在 ... 中搜索";
+"Search in:" = "在 ... 中搜索：";
 "Search options" = "选项";
 "Prefix while typing" = "键入字首时";
 "Prefix" = "字首";
@@ -48,11 +48,11 @@
 "URL" = "URL";
 "Meta Data" = "摘要数据";
 "Data" = "数据";
-"URL/Path" = "URL/Path";
+"URL/Path" = "URL/路径";
 "Wildcards" = "通配符";
 "Word" = "词汇";
 "Save search" = "保存搜索";
-"Advanced..." = "高级...";
+"Advanced..." = "高级 ...";
 "OK" = "好的";
 "Cancel" = "取消";
 "Name:" = "名称：";

@@ -2,8 +2,8 @@
 "Cancel" = "取消";
 
 "Download Manager" = "下载管理器";
-"Add..." = "添加...";
-"Edit..." = "编辑...";
+"Add..." = "添加 ...";
+"Edit..." = "编辑 ...";
 "Retry" = "重试";
 "Remove" = "移除";
 "Actions" = "动作";
@@ -15,12 +15,12 @@
 "Only added files" = "只添加的文件";
 "Offline Archive" = "离线存档";
 "Subdirectory (Complete)" = "子目录 (完成)";
-"Subdirectory (Images & Multimedia)" = "子目录 (图形 & 多媒体)";
+"Subdirectory (Images & Multimedia)" = "子目录 (图片 & 多媒体)";
 "Thumbnail Gallery" = "缩略图图库";
 "Import Files To Database" = "导入文件到数据库";
-"Download To" = "下载到...";
+"Download To" = "下载到 ...";
 "Folder" = "文件夹";
-"Options..." = "选项...";
+"Options..." = "选项 ...";
 "Add" = "添加";
 "Start/Stop Queue" = "开始/停止队列";
 "Options" = "选项";

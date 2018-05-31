@@ -20,7 +20,7 @@
 "Quit" = "退出";
 
 /* na */
-"Expired Beta" = "我们的公开测试版本通常运行四至八个星期，然后必须被替换为一个新的公开测试或最终版本。虽然通过检查更新机制通常是会自动发生，你可能已经错过了在截止日期之前安装更新。\n\n请访问我们的网站的下载页面下载一个新的公开测试版或最终版本。";
+"Expired Beta" = "我们的公开测试版本通常运行 4～8 个星期，然后必须被替换为一个新的公开测试或最终发布版本。虽然通过检查更新机制通常是会自动发生，但你可能已经错过了在截止日期之前安装更新。\n\n请访问我们网站的下载页面下载一个新的公开测试或最终发布版本。";
 
 /* na */
 "OK" = "好的";
@@ -35,10 +35,10 @@
 "License is outdated. Please contact our\nsupport to get a new license." = "许可证已过时，请联系我们\n的客户支持以获得新的许可证。";
 
 /* na */
-"Thanks for registering %@ %@ Edition!\n\nNow please backup the registration file:\n%@" = "感谢您注册 %@ %@ 版本！\n\n现在请备份注册文件：\n%@";
+"Thanks for registering %@ %@ Edition!\n\nNow please backup the registration file:\n%@" = "感谢您注册 %@ %@ ！\n\n现在请备份注册文件：\n%@";
 
 /* na */
-"Thanks for registering %@ %@ Edition!" = "感谢您注册 %@ %@ 版本！";
+"Thanks for registering %@ %@ Edition!" = "感谢您注册 %@ %@ ！";
 
 /* na */
 "Thanks for registering %@!\n\nNow please backup the registration file:\n%@" = "感谢您注册 %@！\n\n现在请备份注册文件：\n%@";
@@ -53,19 +53,19 @@
 "A New Version is Available" = "一个新版本可用";
 
 /* na */
-"A new version of %@ %@ Edition is available (%@). Would you like to download the new version now?" = "%@ %@的新版本（%@）可用，是否要立即下载？";
+"A new version of %@ %@ Edition is available (%@). Would you like to download the new version now?" = "%@ %@的新版本（%@）可用，要立即下载吗？";
 
 /* na */
-"Your software is up-to-date" = "您的软件是最新的";
+"Your software is up-to-date" = "您的软件已是最新版本";
 
 /* na */
-"You are running %@ %@ Edition %@. No newer version was found." = "您正在运行%@ %@的%@版本，没有更新的版本。";
+"You are running %@ %@ Edition %@. No newer version was found." = "您正在运行%@ %@ %@，是最新版本。";
 
 /* na */
 "Get new license" = "获取新的许可证";
 
 /* na */
-"Checking for updates..." = "检查更新...";
+"Checking for updates..." = "检查更新 ...";
 
 /* na */
 "Unregistered: %%d (%.1f hours left)" = "未注册：%%d（还剩%.1f小时）";
@@ -86,13 +86,13 @@
 "License:" = "许可证：";
 
 /* na */
-"The entered license code is not valid for this application but it is for %@. Please download and install %@ which will happily accept this license code." = "输入的许可证代码在该应用中无效，但它是%@。请下载并安装%@，它会很乐意接受这个许可证代码。";
+"The entered license code is not valid for this application but it is for %@. Please download and install %@ which will happily accept this license code." = "您输入的许可证在该应用中无效，但它是%@。请下载并安装%@，它会很乐意接受这个许可证。";
 
 /* na */
-"Check for Updates" = "检查更新...";
+"Check for Updates" = "检查更新 ...";
 
 /* na */
-"Checking for Updates" = "检查更新...";
+"Checking for Updates" = "检查更新 ...";
 
 /* na */
-"Update On Quit" = "在退出时更新...";
+"Update On Quit" = "在退出时更新 ...";

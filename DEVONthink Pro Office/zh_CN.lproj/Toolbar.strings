@@ -48,10 +48,10 @@
 "Search" = "查找";
 
 /* na */
-"Make Plain Text" = "制作纯文本";
+"Make Plain Text" = "使用纯文本";
 
 /* na */
-"Make Rich Text" = "制作富文本";
+"Make Rich Text" = "使用富文本";
 
 /* na */
 "Previous/Next" = "转至文档";
@@ -69,19 +69,19 @@
 "Export" = "导出";
 
 /* na */
-"Open Externally" = "打开外部";
+"Open Externally" = "用外部应用打开";
 
 /* na */
 "Import" = "导入";
 
 /* na */
-"Create a new plain text" = "创建一个新纯文本";
+"Create a new plain text" = "新建纯文本";
 
 /* na */
-"Create a new rich text" = "创建一个新富文本";
+"Create a new rich text" = "新建富文本";
 
 /* na */
-"Create a new group" = "创建一个新分组";
+"Create a new group" = "新建分组";
 
 /* na */
 "Open the current selection" = "打开当前选择";
@@ -105,10 +105,10 @@
 "Find text" = "查找和替换文本";
 
 /* na */
-"Make plain text" = "制作纯文本";
+"Make plain text" = "使用纯文本";
 
 /* na */
-"Make rich text" = "制作富文本";
+"Make rich text" = "使用富文本";
 
 /* na */
 "Go to document" = "转至文稿";
@@ -126,7 +126,7 @@
 "Export the current selection" = "导出当前选择";
 
 /* na */
-"Open in external editor or viewer" = "打开外部编辑器或查看器";
+"Open in external editor or viewer" = "用外部编辑器或查看器打开";
 
 /* na */
 "Import files" = "导入文件";
@@ -159,7 +159,7 @@
 "Toggle highlighting of selected text" = "添加或移除选定文本的高亮显示";
 
 /* na */
-"Create a new link" = "创建一个新的书签";
+"Create a new link" = "新建书签";
 
 /* na */
 "New Link" = "书签";
@@ -180,7 +180,7 @@
 "DEVONagent" = "DEVONagent";
 
 /* na */
-"Launch DEVONagent" = "启动DEVONagent（同时打开当前位置）";
+"Launch DEVONagent" = "启动 DEVONagent（同时打开当前位置）";
 
 /* na */
 "Backup" = "备份";
@@ -192,13 +192,13 @@
 "Verify" = "验证";
 
 /* na */
-"Verify & Repair" = "验证&修复";
+"Verify & Repair" = "验证 & 修复";
 
 /* na */
 "Link" = "链接";
 
 /* na */
-"Toggle Link" = "制作或移除链接";
+"Toggle Link" = "添加或移除链接";
 
 /* na */
 "View" = "视图";
@@ -255,16 +255,16 @@
 "Superscript" = "上标";
 
 /* na */
-"Table" = "工作表";
+"Table" = "表格";
 
 /* na */
 "Record" = "记录";
 
 /* na */
-"Create a new table" = "创建一个新的工作表";
+"Create a new table" = "新建表格";
 
 /* na */
-"Create a new record" = "创建一个新的纪录";
+"Create a new record" = "新建纪录";
 
 /* na */
 "First" = "首个";
@@ -306,13 +306,13 @@
 "Columns" = "列";
 
 /* na */
-"Add new record" = "添加一个新记录";
+"Add new record" = "添加新记录";
 
 /* na */
 "Delete selected records" = "删除所选记录";
 
 /* na */
-"Add new column" = "添加一个新列";
+"Add new column" = "添加新列";
 
 /* na */
 "Delete selected columns" = "删除所选列";
@@ -372,7 +372,7 @@
 "Reveal" = "显示文件位置";
 
 /* na */
-"Show In Finder" = "在Finder中显示";
+"Show In Finder" = "在 Finder 中显示";
 
 /* na */
 "Rotate Left" = "向左旋转";
@@ -411,28 +411,28 @@
 "Refresh" = "刷新";
 
 /* na */
-"Refresh Feeds" = "刷新RSS订阅";
+"Refresh Feeds" = "刷新 RSS 订阅";
 
 /* na */
-"As Icons" = "图标形式";
+"As Icons" = "图标视图";
 
 /* na */
-"As List" = "列表形式";
+"As List" = "列表视图";
 
 /* na */
-"As Columns" = "多列形式";
+"As Columns" = "多列视图";
 
 /* na */
-"As Split" = "分割形式";
+"As Split" = "分割视图";
 
 /* na */
-"As 3-Pane" = "三分窗格形式";
+"As 3-Pane" = "三分窗格视图";
 
 /* na */
-"As Tags" = "标签形式";
+"As Tags" = "标签视图";
 
 /* na */
-"Create a new formatted note" = "创建一个新的格式化的笔记";
+"Create a new formatted note" = "新建格式化的笔记";
 
 /* na */
 "New Formatted Note" = "格式化的笔记";

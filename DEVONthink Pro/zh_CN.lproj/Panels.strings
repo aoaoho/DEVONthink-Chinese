@@ -15,12 +15,12 @@
 "Comment" = "注释";
 "Instances:" = "实例：";
 "Aliases:" = "别名：";
-"Exclude from..." = "从...排除";
+"Exclude from..." = "排除 ...";
 "Classification" = "分类";
 "See Also" = "参阅";
 "Search" = "搜索";
 "Tagging" = "标签";
-"Select..." = "选择...";
+"Select..." = "选择 ...";
 "Script:" = "脚本：";
 "Label:" = "标注：";
 "Tags:" = "标签：";
@@ -39,10 +39,10 @@
 "Rich Texts:" = "富文本：";
 "Statistics" = "统计";
 "HTML Pages:" = "HTML页面：";
-"Images:" = "图像：";
+"Images:" = "图片：";
 "Words:" = "词汇：";
 "Comments" = "注释";
-"Spotlight Comments" = "Spotlight注释";
+"Spotlight Comments" = "Spotlight 注释";
 "Name" = "名称";
 "XML Files:" = "XML文件：";
 "Records:" = "记录：";
@@ -54,12 +54,12 @@
 "PDF/PS:" = "PDF/PS：";
 "Property Lists:" = "属性列表：";
 "Bookmarks:" = "书签：";
-"Feeds:" = "RSS订阅：";
+"Feeds:" = "RSS 订阅：";
 "Total:" = "总数：";
 "Unknown:" = "未知：";
 "Rebuild" = "重建";
-"Create Spotlight Index" = "创建Spotlight索引";
-"Creating Spotlight Index..." = "创建Spotlight索引...";
+"Create Spotlight Index" = "创建 Spotlight 索引";
+"Creating Spotlight Index..." = "创建 Spotlight 索引 ...";
 "Shared Database" = "共享数据库";
 
 "Age" = "年份";
@@ -71,7 +71,7 @@
 "File/Action" = "文件/动作";
 "Info" = "简介";
 "Clear" = "清除";
-"Save..." = "保存...";
+"Save..." = "保存 ...";
 
 "Select Backup" = "选择备份";
 "Cancel" = "取消";

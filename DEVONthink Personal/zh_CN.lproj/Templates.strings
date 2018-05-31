@@ -1,12 +1,12 @@
 /* Localized strings for templates */
 
 "1 E-mail" = "E-mail";
-"1 Images (large)" = "图像（大）";
-"1 Images (small)" = "图像（小）";
-"1 Images" = "图像";
+"1 Images (large)" = "图片（大）";
+"1 Images (small)" = "图片（小）";
+"1 Images" = "图片";
 "1 Music" = "音乐";
 "1 Other Documents" = "其它文档";
-"1 QuickTime Media" = "QuickTime媒体";
+"1 QuickTime Media" = "QuickTime 媒体";
 "1 Sheets" = "工作簿";
 "1 Videos" = "视频";
 "2 Last Month" = "上月";
@@ -16,9 +16,9 @@
 "3 PDFs (not searchable)" = "PDFs（不可搜索）";
 
 "Tabs" = "标签页";
-"Open Bing in Tab" = "打开Bing";
-"Open Google in Tab" = "打开Google";
-"Open Location in Tab" = "打开位置...";
+"Open Bing in Tab" = "打开 Bing";
+"Open Google in Tab" = "打开 Google";
+"Open Location in Tab" = "打开位置 ...";
 "Toolbar" = "工具栏";
 "Address Book Card" = "名片";
-"Addresses & Dates" = "联系人&事件";
+"Addresses & Dates" = "联系人 & 事件";

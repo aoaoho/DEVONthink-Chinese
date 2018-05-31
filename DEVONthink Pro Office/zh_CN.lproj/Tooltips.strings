@@ -35,10 +35,10 @@
 "tags" = "显示/隐藏标签";
 
 /* na */
-"Text Alternative" = "替代文本";
+"Text Alternative" = "文本呈现";
 
 /* na */
-"Best Alternative" = "最佳选择";
+"Best Alternative" = "最佳呈现";
 
 /* na */
 "previous" = "上一个高亮标记";
