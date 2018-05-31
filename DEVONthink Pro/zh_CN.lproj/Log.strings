@@ -53,7 +53,7 @@
 "Missing Indexed File" = "缺少索引文件";
 
 /* na */
-"Duplicate" = "制作副本（Duplicate）";
+"Duplicate" = "建立副本";
 
 /* na */
 "Tagged" = "已加标签";
@@ -83,7 +83,7 @@
 "File still pending" = "文件仍在等待";
 
 /* na */
-"Databases shouldn't be located in cloud folders." = "数据库不应该位于云文件夹中。";
+"Databases shouldn't be located in cloud folders." = "不应该将数据库放在云文件夹中。";
 
 /* na */
 "Successfully verified" = "验证成功";
