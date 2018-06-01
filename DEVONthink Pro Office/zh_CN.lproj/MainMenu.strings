@@ -215,7 +215,7 @@
 "Zoom To Fit" = "缩放以适应";
 "Zoom To Width" = "适合宽度";
 "Full Screen" = "全屏";
-"PDF Display" = "PDF显示";
+"PDF Display" = "PDF 显示";
 "Sidebar" = "侧边栏";
 "Single Pages" = "单页";
 "Facing Pages" = "两页";
@@ -345,7 +345,7 @@
 
 "Spelling and Grammar" = "拼写和语法";
 "Show Spelling and Grammar" = "显示拼写和语法";
-"Check Document Now" = "现在检查文档";
+"Check Document Now" = "立即检查文档";
 "Check Spelling While Typing" = "在输入时检查拼写";
 "Check Grammar With Spelling" = "拼写时检查语法";
 "Correct Spelling Automatically" = "自动纠正拼写";
