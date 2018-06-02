@@ -728,7 +728,7 @@
 "<None>" = "<无>";
 
 /* na */
-"Go to \"%@\"" = "转至 \"%@\"";
+"Go to \"%@\"" = "前往 \"%@\"";
 
 /* na */
 "Name:" = "名称：";
@@ -997,7 +997,7 @@
 "Capture Page Address" = "捕捉页面地址";
 
 /* na */
-"Capture Formatted Note" = "捕捉格式化的笔记";
+"Capture Formatted Note" = "捕捉带格式的笔记";
 
 /* na */
 "Last Destinations" = "最近的目标";
@@ -1267,7 +1267,7 @@
 "Enclosing Groups" = "闭合分组";
 
 /* na */
-"Do you want to install the template \"%@\" or do you want to import it?" = "你要安装还是导入模板 \"%@\"？";
+"Do you want to install the template \"%@\" or do you want to import it?" = "你要安装还是导入模版 \"%@\"？";
 
 /* na */
 "Import" = "导入";
@@ -1387,10 +1387,10 @@
 "Time:" = "时间：";
 
 /* na */
-"Formatted Note" = "格式化的笔记";
+"Formatted Note" = "带格式的笔记";
 
 /* na */
-"Formatted Note %d" = "格式化的笔记 %d";
+"Formatted Note %d" = "带格式的笔记 %d";
 
 /* na */
 "Add Link..." = "添加链接 ...";
@@ -1402,7 +1402,7 @@
 "Move Originals to Trash" = "将原稿移至废纸篓";
 
 /* na */
-"New Formatted Note" = "新建格式化的笔记";
+"New Formatted Note" = "新建带格式的笔记";
 
 /* na */
 "New Markdown File" = "新建 Markdown 文本";

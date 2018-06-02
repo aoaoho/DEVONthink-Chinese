@@ -20,8 +20,8 @@
 "Create" = "创建";
 "Descending" = "降序";
 "Frequency" = "频次";
-"Go to next page" = "转至下一页";
-"Go to previous page" = "转至上一页";
+"Go to next page" = "前往下一页";
+"Go to previous page" = "前往上一页";
 "A Group" = "分组";
 "To Group" = "分组条目";
 "HTML Page..." = "HTML 页面";
@@ -64,7 +64,7 @@
 "to Plain Text" = "纯文本";
 "to Rich Text" = "富文本";
 "to HTML" = "HTML";
-"to Formatted Note" = "格式化的笔记";
+"to Formatted Note" = "带格式的笔记";
 "Ungroup" = "取消分组";
 "Unsorted" = "未归类";
 "Update" = "更新";
@@ -86,5 +86,5 @@
 "Copy Item Link" = "拷贝条目链接";
 "by Aliases" = "按别名";
 "by Tags" = "按标签";
-"Formatted Note..." = "格式化的笔记";
+"Formatted Note..." = "带格式的笔记";
 "Sheet..." = "工作簿";

@@ -44,7 +44,7 @@
 "Complete" = "完成";
 "Select All" = "全选";
 "Deselect All" = "取消全选";
-"Summarize" = "总结";
+"Summarize" = "概述";
 "Find" = "查找";
 "In Database..." = "在数据库中 ...";
 "Find..." = "查找 ...";
@@ -105,7 +105,7 @@
 "to Plain Text" = "纯文本";
 "to Rich Text" = "富文本";
 "to HTML" = "HTML";
-"to Formatted Note" = "格式化的笔记";
+"to Formatted Note" = "带格式的笔记";
 "Ungroup" = "取消分组条目";
 "See Also & Classify" = "参阅 & 归类";
 "Auto Group" = "自动分组条目";
@@ -224,7 +224,7 @@
 "Page Breaks" = "分页符";
 "Hide Toolbar" = "隐藏工具栏";
 "Customize Toolbar..." = "自定义工具栏 ...";
-"Go" = "转至";
+"Go" = "前往";
 "Top Group" = "顶层分组";
 "Selected Group" = "所选分组";
 "Enclosing Group" = "闭合分组";
@@ -285,7 +285,7 @@
 "Ignore rich text commands" = "忽略富文本命令";
 "Text Encoding:" = "文本编码：";
 "Background" = "背景";
-"Format:" = "格式化：";
+"Format:" = "格式：";
 "Automatic" = "自动";
 "Keep Windows in Front" = "保持窗口在前端";
 "as Three Panes" = "三分窗格视图";
@@ -372,8 +372,8 @@
 "Tags" = "标签";
 "Enter Full Screen" = "进入全屏";
 "Exit Full Screen" = "退出全屏";
-"Go to Page..." = "转至页面 ...";
-"Go to Time..." = "转至时间 ...";
+"Go to Page..." = "前往页面 ...";
+"Go to Time..." = "前往时间 ...";
 "Document" = "文档";
 "Aliases" = "别名";
 "by Aliases" = "按别名";
@@ -394,7 +394,7 @@
 "Capture PDF" = "PDF (一页)";
 "Capture Paginated PDF" = "PDF (分页)";
 "Capture Bookmark" = "书签";
-"Capture Formatted Note" = "格式化的笔记";
+"Capture Formatted Note" = "带格式的笔记";
 
 "PDF Document" = "PDF 文档";
 "Annotate" = "注解";
@@ -407,7 +407,7 @@
 "Move" = "移动";
 "Text Selection" = "文本选择";
 "Annotation Selection" = "注解选择";
-"Formatted Note..." = "格式化的笔记";
+"Formatted Note..." = "带格式的笔记";
 "Sheet..." = "工作簿";
 
 "Flip Horizontal" = "水平翻转";

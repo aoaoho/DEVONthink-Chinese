@@ -54,7 +54,7 @@
 "Make Rich Text" = "使用富文本";
 
 /* na */
-"Previous/Next" = "转至文档";
+"Previous/Next" = "前往文档";
 
 /* na */
 "Group" = "分组条目";
@@ -111,7 +111,7 @@
 "Make rich text" = "使用富文本";
 
 /* na */
-"Go to document" = "转至文档";
+"Go to document" = "前往文档";
 
 /* na */
 "Group the current selection" = "分组当前选择";
@@ -186,7 +186,7 @@
 "Backup" = "备份";
 
 /* na */
-"Backup & Optimize" = "备份和优化";
+"Backup & Optimize" = "备份 & 优化";
 
 /* na */
 "Verify" = "验证";
@@ -231,7 +231,7 @@
 "Scripts" = "脚本";
 
 /* na */
-"Go to top level or enclosing group" = "转至顶层或所属分组";
+"Go to top level or enclosing group" = "前往顶层或所属分组";
 
 /* na */
 "Top Level/Enclosing Group" = "顶层/所属分组";
@@ -246,7 +246,7 @@
 "Navigation" = "导航";
 
 /* na */
-"Go" = "转至";
+"Go" = "前往";
 
 /* na */
 "Subscript" = "下标";
@@ -279,16 +279,16 @@
 "Last" = "最后一个";
 
 /* na */
-"Go to first document" = "转至首个文档";
+"Go to first document" = "前往首个文档";
 
 /* na */
-"Go to previous document" = "转至上一个文档";
+"Go to previous document" = "前往上一个文档";
 
 /* na */
-"Go to next document" = "转至下一个文档";
+"Go to next document" = "前往下一个文档";
 
 /* na */
-"Go to last document" = "转至最后一个文档";
+"Go to last document" = "前往最后一个文档";
 
 /* na */
 "Add Record" = "添加纪录";
@@ -432,10 +432,10 @@
 "As Tags" = "标签视图";
 
 /* na */
-"Create a new formatted note" = "新建格式化的笔记";
+"Create a new formatted note" = "新建带格式的笔记";
 
 /* na */
-"New Formatted Note" = "格式化的笔记";
+"New Formatted Note" = "带格式的笔记";
 
 /* na */
 "Line" = "行";
