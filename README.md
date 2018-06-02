@@ -39,13 +39,8 @@ DEVONthink Pro Office
 
 > **一些不错的 DEVONthink 相关的文章：**
 > - 【推荐阅读】[从 Evernote 到 DEVONthink](https://sspai.com/post/44648) *（少数派作者 @OscarGong 写的一篇非常详尽的长文，可以忽略标题，文内 80% 以上的篇幅都是在介绍 DEVONthink 本身）*
-> - 网友 @YJ On-Line ~ 写的一个系列文章
-[&nbsp; P1 &nbsp;][1] [&nbsp; P2 &nbsp;][2] [&nbsp; P3 &nbsp;][3] [&nbsp; P4 &nbsp;][4] [&nbsp; P5 &nbsp;][5]
-[1]: https://medium.com/p/cf6564014474
-[2]: https://medium.com/p/a159fc6e61e5
-[3]: https://medium.com/p/ddfa8e71d856
-[4]: https://medium.com/p/8957e781515f
-[5]: https://medium.com/p/f5aed8758728
+> - 网友 @YJ On-Line ~ 写的一个系列文章：
+[&nbsp; P1 &nbsp;](https://medium.com/p/cf6564014474) [&nbsp; P2 &nbsp;](https://medium.com/p/a159fc6e61e5) [&nbsp; P3 &nbsp;](https://medium.com/p/ddfa8e71d856) [&nbsp; P4 &nbsp;](https://medium.com/p/8957e781515f) [&nbsp; P5 &nbsp;](https://medium.com/p/f5aed8758728)  
 
 ## 更新记录
 **2018-06-02**
