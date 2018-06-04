@@ -242,9 +242,9 @@
 "Search..." = "搜索 ...";
 "DEVONagent" = "DEVONagent";
 "Concordance" = "语汇索引";
-"History" = "历史";
+"History" = "历史记录";
 "Log" = "日志";
-"Verify & Repair" = "验证&修复";
+"Verify & Repair" = "验证 & 修复";
 "Backup & Optimize" = "备份 & 优化";
 "Restore Backup..." = "恢复备份 ...";
 "Rebuild Database..." = "重建数据库 ...";
