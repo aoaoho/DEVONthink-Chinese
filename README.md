@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://www.devontechnologies.com/download/products.html" target="_blank"><img src="https://img.shields.io/badge/&#127744;_DEVONthink-v2.10-blue.svg" align="left" alt="🌀  DEVONthink v2.10"></a>
-<a href="https://github.com/aoaoho/DEVONthink-Chinese/releases" target="_blank"><img src="https://img.shields.io/badge/DEVONthink_Chinese-v2.10--2.0.2-red.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAAHTSQ6PAAAABGdBTUEAALGPC/xhBQAAAuxJREFUKBVVUk1sE0cU/mZ2Zu1d27Edk8RpEiAgojStmoDaIqFWQqIq9FIJJDhw4AZHkHLg0JMvOVVquNJbOVWRqt7gggSXlksqhV5wqIghTkhM/hyvd53d9cz0OSaIjLSz38y8n++97wHv15yZs1gJfelrX055/2y9W9y//2NmZpA9PT5lnKSD/efLP2U96+Eo/L0mXob+vhkr9Y9+/2262HcQzDoA9+fn5Q0nP8yeXBgxud0R2CyNcnkRfO+5AxOI94YGuOEUvr5TPPHVgSv7eeCL1Phnp2a1SlYKn2JMVvV3Wb813HhbQ3WlimC4uCn82hpLuK2bTo+L3HIGbNWFtgHDKY5FPOJoi5IobnsclukQE7ATDF67jVoc7mzotiaDXnaQ9+P/n7OzOb1c61Uj/fVr09Pb7N7JyUdH+8ee5aeka5WtsynROp/c9VB9tQQuJcrpTFbE1Y2Tn/+2fmn94jEM/JBE/DoBrTWYFNDtGFaiqbm0wJdvFWAPEVNiezg/9YMW7/BVO11GYYWjew0y7ph3XcidFWzGYHOOJLMgCG+343BdRet1rYwKQ85+hPvJRDY/zhypVtvx2oPN1SUK0e7G7u6sVCrxgYXy0cL1K43HV094v8Izv0wnZNF/neodfZOzV7YKzPcHpVbjOtLHolYw5Debw2EYNUTGXQpb8V8N7+0DdhdHMn02e3O6J5uXQwlYOy5S/QKZSQOzJhFXBIwgzBk0VRUELezs1uH7PlLSxruM81+zB2e4C2Z4JLfFhMHI73XkbzfgvSD1npPGeWpIQgK2BKePkdzM4uDUB8YJC8LC0p3iBGg2+R4Q/Gth8VweUtnIfxMjOWDg/52CzFJvD2vwcWs+YIENwmliTvQhNYmpEVWIzYqEzNCZd2e6o4ImJopxGnpSh9xsUsdiVDMUxC42VKD6FkzcstPQgw4zkjHVRDvcVDFfiYClUOtXvoorNKy1zTDwt5rBHqLQLir3SM6Oh+qcx/8DE/gqK8kQwdUAAAAASUVORK5CYII=" align="left" alt="🇨🇳  DEVONthink Chinese v2.10-2.0.2"></a>
+<a href="https://www.devontechnologies.com/download/products.html" target="_blank"><img src="https://img.shields.io/badge/&#127744;_DEVONthink-v2.10.1-blue.svg" align="left" alt="🌀  DEVONthink v2.10.1"></a>
+<a href="https://github.com/aoaoho/DEVONthink-Chinese/releases" target="_blank"><img src="https://img.shields.io/badge/DEVONthink_Chinese-v2.10.1--0.1.0-red.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAAHTSQ6PAAAABGdBTUEAALGPC/xhBQAAAuxJREFUKBVVUk1sE0cU/mZ2Zu1d27Edk8RpEiAgojStmoDaIqFWQqIq9FIJJDhw4AZHkHLg0JMvOVVquNJbOVWRqt7gggSXlksqhV5wqIghTkhM/hyvd53d9cz0OSaIjLSz38y8n++97wHv15yZs1gJfelrX055/2y9W9y//2NmZpA9PT5lnKSD/efLP2U96+Eo/L0mXob+vhkr9Y9+/2262HcQzDoA9+fn5Q0nP8yeXBgxud0R2CyNcnkRfO+5AxOI94YGuOEUvr5TPPHVgSv7eeCL1Phnp2a1SlYKn2JMVvV3Wb813HhbQ3WlimC4uCn82hpLuK2bTo+L3HIGbNWFtgHDKY5FPOJoi5IobnsclukQE7ATDF67jVoc7mzotiaDXnaQ9+P/n7OzOb1c61Uj/fVr09Pb7N7JyUdH+8ee5aeka5WtsynROp/c9VB9tQQuJcrpTFbE1Y2Tn/+2fmn94jEM/JBE/DoBrTWYFNDtGFaiqbm0wJdvFWAPEVNiezg/9YMW7/BVO11GYYWjew0y7ph3XcidFWzGYHOOJLMgCG+343BdRet1rYwKQ85+hPvJRDY/zhypVtvx2oPN1SUK0e7G7u6sVCrxgYXy0cL1K43HV094v8Izv0wnZNF/neodfZOzV7YKzPcHpVbjOtLHolYw5Debw2EYNUTGXQpb8V8N7+0DdhdHMn02e3O6J5uXQwlYOy5S/QKZSQOzJhFXBIwgzBk0VRUELezs1uH7PlLSxruM81+zB2e4C2Z4JLfFhMHI73XkbzfgvSD1npPGeWpIQgK2BKePkdzM4uDUB8YJC8LC0p3iBGg2+R4Q/Gth8VweUtnIfxMjOWDg/52CzFJvD2vwcWs+YIENwmliTvQhNYmpEVWIzYqEzNCZd2e6o4ImJopxGnpSh9xsUsdiVDMUxC42VKD6FkzcstPQgw4zkjHVRDvcVDFfiYClUOtXvoorNKy1zTDwt5rBHqLQLir3SM6Oh+qcx/8DE/gqK8kQwdUAAAAASUVORK5CYII=" align="left" alt="🇨🇳  DEVONthink Chinese v2.10.1-0.1.0"></a>
 <a href="https://github.com/aoaoho/DEVONthink-Chinese/issues/new" target="_blank"><img src="https://img.shields.io/badge/Github-New_issue-2cbe4e.svg" align="right" alt="Github: New issue"></a>
 <a href="https://t.me/DEVONthink" target="_blank"><img src="https://img.shields.io/badge/Telegram-DEVONthink-5682a3.svg" align="right" alt="Telegram: DEVONthink"></a>
 <div>&nbsp;</div>
@@ -43,6 +43,9 @@ DEVONthink Pro Office
 [&nbsp; P1 &nbsp;](https://medium.com/p/cf6564014474) [&nbsp; P2 &nbsp;](https://medium.com/p/a159fc6e61e5) [&nbsp; P3 &nbsp;](https://medium.com/p/ddfa8e71d856) [&nbsp; P4 &nbsp;](https://medium.com/p/8957e781515f) [&nbsp; P5 &nbsp;](https://medium.com/p/f5aed8758728)  
 
 ## 更新记录
+**2018-06-23**
+- 随官网软件版本升级到 v2.10.1
+
 **2018-06-02**
 - 主要增加了偏好设置界面翻译（建议所有用户更新）
 - 其他细节修正
@@ -51,14 +54,14 @@ DEVONthink Pro Office
 - 大量修正（建议所有用户更新），发版庆祝儿童节 🎈
 
 **2018-05-28**
-- 随官网软件版本升级到 v2.10。
+- 随官网软件版本升级到 v2.10
 
 **2018-05-17**
-- 修正因 Localizable.strings 文件的一处错误而导致的部分翻译未正常显示；
-- 一些其他优化。
+- 修正因 Localizable.strings 文件的一处错误而导致的部分翻译未正常显示
+- 一些其他优化
 
 **2018-04-18**
-- 增加了 Personal 和 Pro 版本的支持。
+- 增加了 Personal 和 Pro 版本的支持
 
 **2018-04-15**
 - 当前日期翻译版本仅在 v2.9.17 版本下进行测试（理论上可用于大部分临近版本），可正常使用，若发现问题欢迎指正；
