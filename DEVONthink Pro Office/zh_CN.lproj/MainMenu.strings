@@ -195,9 +195,9 @@
 "Descending" = "递减";
 "Ignore Umlauts" = "忽略分音符";
 "Columns" = "显示列";
-"Date Added" = "添加日期";
-"Date Created" = "创建日期";
-"Date Modified" = "修改日期";
+"Date Added" = "添加时间";
+"Date Created" = "创建时间";
+"Date Modified" = "修改时间";
 "Kind" = "类型";
 "Size" = "大小";
 "Word Count" = "字数";

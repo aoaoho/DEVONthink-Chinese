@@ -2,9 +2,9 @@
 "Auto Classify" = "自动归类";
 "Auto Group" = "自动分组";
 "by Comment" = "按注释";
-"by Date Added" = "按添加日期";
-"by Date Created" = "按创建日期";
-"by Date Modified" = "按修改日期";
+"by Date Added" = "按添加时间";
+"by Date Created" = "按创建时间";
+"by Date Modified" = "按修改时间";
 "by Kind" = "按类型";
 "by Label" = "按标注";
 "by Name" = "按名称";

@@ -25,10 +25,10 @@
 "Size" = "大小";
 "Word Count" = "字数";
 
-"Date Added" = "添加日期";
-"Date Created" = "创建日期";
-"Date Modified" = "修改日期";
-"Date Opened" = "打开日期";
+"Date Added" = "添加时间";
+"Date Created" = "创建时间";
+"Date Modified" = "修改时间";
+"Date Opened" = "打开时间";
 
 "Off" = "关闭";
 "On" = "开启";
