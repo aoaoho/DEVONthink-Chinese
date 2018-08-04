@@ -44,8 +44,8 @@
 "Aliases" = "别名";
 "Script" = "脚本";
 
-"Replicant" = "建立替身";
-"Duplicate" = "建立副本";
+"Replicant" = "替身";
+"Duplicate" = "副本";
 "Indexed" = "已索引";
 "Tagged" = "已加标签";
 
@@ -113,4 +113,4 @@
 "within last" = "在最后";
 "not within last" = "不在最后";
 "days" = "天";
-"Pending" = "待定";
+"Pending" = "待处理";
