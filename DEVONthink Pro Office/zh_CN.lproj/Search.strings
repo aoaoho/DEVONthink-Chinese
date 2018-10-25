@@ -24,7 +24,7 @@
 "Modified" = "修改";
 "Name" = "名称";
 "No Case" = "No Case";
-"No Entries" = "没有记录";
+"No Entries" = "无记录";
 "Off" = "否";
 "On" = "是";
 "Operator" = "操作者";
@@ -34,8 +34,8 @@
 "Score" = "评分";
 "Search for" = "搜索";
 "Search for:" = "搜索：";
-"Search in" = "在 ... 中搜索";
-"Search in:" = "在 ... 中搜索：";
+"Search in" = "搜索范围";
+"Search in:" = "搜索范围：";
 "Search options" = "选项";
 "Prefix while typing" = "输入字首时";
 "Prefix" = "字首";
