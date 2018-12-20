@@ -527,6 +527,11 @@
 
 /* na */
 "Set Title" = "将名称设定为";
+"Set PDF Title" = "设置标题";
+"Set PDF Author" = "设置作者";
+"Set PDF Subject" = "设置主题";
+"Set PDF Creation Date" = "设置日期";
+"Add PDF Keyword \"%@\"" = "添加标签\“%@\”";
 
 /* na */
 "Interval" = "时间间隔";
@@ -1343,6 +1348,8 @@
 
 /* na */
 "Update..." = "更新 ...";
+"Update %@" = "更新 \"%@\"";
+"Update" = "更新";
 
 /* na */
 "Edit Workspaces" = "编辑工作区";
