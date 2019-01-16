@@ -50,8 +50,10 @@
 
 "Unregistered: %%d (%.1f hours left)" = "未注册：%%d（还剩%.1f小时）";
 
-"Buy Now (%d hours left)" = "立即购买！ - 还剩 %d 小时。";
-"Buy Now (%d days left)" = "立即购买！ — 还剩 %d 天。";
+"Buy Now (%d days left)" = "现在购买！ - 还剩 %d 天";
+"Buy Now (%d hours left)" = "现在购买！ - 还剩 %d 小时";
+"Buy Now (%d minutes left)" = "现在购买！ - 还剩 %d 分钟";
+"Buy Now (%d seconds left)" = "现在购买！ - 还剩 %d 秒";
 
 "Purchase" = "购买";
 
@@ -69,3 +71,7 @@
 
 "Update On Quit" = "在退出时更新 ...";
 "Your Account" = "你的账号";
+"License still %d days valid" = "许可证有效期剩余 %d 天";
+"License still %d hours valid"= "许可证有效期剩余 %d 小时";
+"License still %d minutes valid"= "许可证有效期剩余 %d 分钟";
+"License still %d seconds valid"= "许可证有效期剩余 %d 秒";

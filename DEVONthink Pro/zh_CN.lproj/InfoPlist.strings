@@ -1,7 +1,7 @@
 /* Localized versions of Info.plist keys */
 
-CFBundleGetInfoString = "2.11.1 ©2001-2018 DEVONtechnologies.";
-NSHumanReadableCopyright = "©2001-2018 DEVONtechnologies.";
+CFBundleGetInfoString = "2.11.2 ©2001-2019 DEVONtechnologies.";
+NSHumanReadableCopyright = "©2001-2019 DEVONtechnologies.";
 NSAppleEventsUsageDescription = "脚本和AppleEvents用于Finder集成和从其他应用程序导入数据。";
 
 "DEVONthink Pro Database" = "DEVONthink Pro 数据库";
