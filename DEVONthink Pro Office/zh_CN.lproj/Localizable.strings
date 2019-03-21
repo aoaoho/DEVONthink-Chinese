@@ -1448,7 +1448,7 @@
 "Checkbox" = "复选框";
 
 "Databases can't be located in cloud folders" = "数据库不能位于云文件夹中";
-"DEVONthink can automatically relocate the database \"%@\" to a safe location in your Home directory or show it in the Finder to move it on your own." = "DEVONthink 可以自动将数据库\"%@\"转移至您的主目录中的安全位置，或者在 Finder 中显示它，以便你可以自己移动它。";
+"DEVONthink can automatically relocate the database \"%@\" to a safe location in your Home directory or show it in the Finder to move it on your own." = "DEVONthink 可以自动将数据库\"%@\"转移至您主目录中的安全位置，或者在 Finder 中显示它，以便你可以自己移动它。";
 "Show in Finder" = "在 Finder 中显示";
 "Relocate" = "迁移";
 "Databases" = "数据库";
