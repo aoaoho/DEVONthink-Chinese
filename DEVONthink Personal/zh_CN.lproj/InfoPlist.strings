@@ -3,9 +3,10 @@
 CFBundleName = "DEVONthink";
 CFBundleDisplayName = "DEVONthink";
 
-CFBundleGetInfoString = "2.11.2 ©2001-2019 DEVONtechnologies.";
+CFBundleGetInfoString = "2.11.3 ©2001-2019 DEVONtechnologies.";
 NSHumanReadableCopyright = "©2001-2019 DEVONtechnologies.";
 NSAppleEventsUsageDescription = "脚本和AppleEvents用于Finder集成和从其他应用程序导入数据。";
+NSContactsUsageDescription = "这是解析模板中的占位符所必需的。";
 
 "DEVONthink Document" = "DEVONthink 文档";
 "DEVONthink Template" = "DEVONthink 模版";

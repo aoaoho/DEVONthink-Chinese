@@ -3,9 +3,10 @@
 CFBundleName = "DEVONthink Pro Office";
 CFBundleDisplayName = "DEVONthink Pro Office";
 
-CFBundleGetInfoString = "2.11.2 ©2001-2019 DEVONtechnologies.";
+CFBundleGetInfoString = "2.11.3 ©2001-2019 DEVONtechnologies.";
 NSHumanReadableCopyright = "©2001-2019 DEVONtechnologies.";
 NSAppleEventsUsageDescription = "脚本和AppleEvents用于Finder集成和从其他应用程序导入数据。";
+NSContactsUsageDescription = "这是导入联系人或解析模板中的占位符所必需的。";
 
 "DEVONthink Pro Database" = "DEVONthink Pro Office 数据库";
 "DEVONthink Pro 2 Database" = "DEVONthink Pro Office 2 数据库";
