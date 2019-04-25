@@ -13,8 +13,10 @@ DEVONthink Pro
 DEVONthink Pro Office
 
 ## 食用方法
+> **提示**：语言包无论自动还是手动安装，若 DEVONthink 是刚刚安装或升级后从未启动过，请在安装前先启动一次，否则安装后会提示应用已损坏无法启动。
+
 ### 自动安装  
-bash <(curl -L -s https://github.com/aoaoho/DEVONthink-Chinese/raw/master/install.sh)
+拷贝右侧命令，粘贴到终端内执行：`bash <(curl -L -s https://github.com/aoaoho/DEVONthink-Chinese/raw/master/install.sh)`
 
 ### 手动安装  
 1. [下载语言包.zip文件](https://github.com/aoaoho/DEVONthink-Chinese/releases)并解压；
