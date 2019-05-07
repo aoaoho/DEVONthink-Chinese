@@ -1,5 +1,5 @@
 #!/bin/bash
-# 描述：此脚本用于将 DEVONthink 三个授权版本的简体中文语言包拷贝到应用程序目录内
+# 描述：此脚本用于将 DEVONthink v2.x 三个授权版本的简体中文语言包拷贝到应用程序目录内
 # 版本：0.1.0
 # 更新日期：2019/04/19
 # 作者：aoaoho
@@ -37,7 +37,7 @@ function Fn_CheckPack(){
   else
     echo -e "************************************************************"
     # read -s -n1 -p "本地未找到语言包，按任意键开始下载 …"
-    read  -p "✍️   直接按回车键开始下载 DEVONthink 简体中文语言包，输入exit后按回车键终止安装 " Read_PreDownload
+    read  -p "✍️   直接按回车键开始下载 DEVONthink v2.11.3 简体中文语言包，输入exit后按回车键终止安装 " Read_PreDownload
     if [ -z "${Read_PreDownload}" ];then
       Fn_DownloadPack
     elif [ "${Read_PreDownload}" = "exit" ];then
@@ -52,7 +52,7 @@ function Fn_DownloadPack(){
 
 # 开始提示 ##########
 function Fn_Start(){
-  echo -e "\n************************************************************\n即将安装 DEVONthink 简体中文语言包，安装过程中会自动重启应用，\n为避免损坏数据，请先完全退出应用（Dock图标上点右键 -> 退出）";
+  echo -e "\n************************************************************\n即将安装 DEVONthink v2.11.3 简体中文语言包，安装过程中会自动重启应用，\n为避免损坏数据，请先完全退出应用（Dock图标上点右键 -> 退出）\n如需老版本语言包请前往GitHub下载并手动安装\nhttps://github.com/aoaoho/DEVONthink-Chinese";
   read -p "❓  应用已经退出了吗？[yes/no] " Read_YES_OR_NO;
   if [ "${Read_YES_OR_NO}" = "yes" ];then
     Fn_CheckVersion

@@ -6,8 +6,8 @@
 <div>&nbsp;</div>
 </div>
 
-# DEVONthink 简体中文语言包
-三个授权版本有轻微差异，请按需食用。
+# DEVONthink 2.x (2.9.17 ~ 2.11.3) 简体中文语言包
+此项目仅对 DEVONthink 2.x 有效，且 2.x 三个授权版本有轻微差异，请按需食用。
 > DEVONthink Personal  
 DEVONthink Pro  
 DEVONthink Pro Office
